@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Morgana" nameDescription="a morgana" race="blood" experience="275000" speed="380" manacost="0">
+ <health now="10000" max="10000"/>
+ <look type="354" corpse="5527"/>
+ <targetchange interval="5000" chance="8"/>
+ <strategy attack="100" defense="0"/>
+ <flags>
+  <flag summonable="0"/>
+  <flag attackable="1"/>
+  <flag hostile="1"/>
+  <flag illusionable="1"/>
+  <flag convinceable="0"/>
+  <flag pushable="0"/>
+  <flag canpushitems="1"/>
+  <flag canpushcreatures="1"/>
+  <flag targetdistance="1"/>
+  <flag staticattack="90"/>
+  <flag runonhealth="0"/>
+ </flags>
+ <attacks>
+					
+			<attack name="firecondition" interval="2000" chance="50" target="1" range="7" min="-220" max="-280">
+				<attribute key="shootEffect" value="fire"/>
+				<attribute key="areaEffect" value="fire"/>
+			</attack>
+		<attack name="melee" interval="1500" min="-1300" max="-1483"/>
+		<attack name="physical" interval="1000" chance="15" range="7" min="-1500" max="-1680">
+		<attribute key="shootEffect" value="SuddenDeath"/>
+		</attack>
+ </attacks>
+ <defenses armor="15" defense="15">
+  <defense name="speed" interval="1000" chance="12" speedchange="480" duration="4000">
+  <attribute key="areaEffect" value="redshimmer"/>
+  </defense>
+ </defenses>
+ <elements>
+  <element physicalPercent="40"/>
+  <element firePercent="30"/>
+  <element icePercent="30"/>
+  <element earthPercent="30"/>
+  <element energyPercent="-20"/>
+  <element holyPercent="-15"/>
+ </elements>
+ <immunities>
+<immunity ice="1"/>
+<immunity fire="1"/>
+<immunity earth="1"/>
+  <immunity paralyze="1"/>
+  <immunity invisible="1"/>
+ </immunities>
+ <voices interval="5000" chance="10">
+  <voice sentence="WAHHHH!"/>
+  <voice sentence="RAAARRR!"/>
+  <voice sentence="GRRRRRR!"/>
+ </voices>
+ <loot>
+  <item id="2160" chance="50000"/><!-- platinum coin -->
+  <item id="2795" countmax="5" chance="20000"/><!-- fire mushroom -->
+  <item id="2432" chance="3703"/><!-- fire axe -->
+  <item id="2393" chance="2000"/><!-- giant sword -->
+  <item id="2418" chance="1428"/><!-- golden sickle -->
+  <item id="2165" chance="1333"/><!-- stealth ring -->
+  <item id="2462" chance="1204"/><!-- devil helmet -->
+  <item id="1982" chance="1190"/><!-- purple tome -->
+  <item id="2179" chance="1010"/><!-- gold ring -->
+  <item id="2171" chance="813"/><!-- platinum amulet -->
+  <item id="2396" chance="666"/><!-- ice rapier -->
+  <item id="2520" chance="1049"/><!-- demon shield -->
+  <item id="2214" chance="473"/><!-- ring of healing -->
+  <item id="5954" chance="467"/><!-- demon horn -->
+  <item id="2470" chance="613"/><!-- golden legs -->
+  <item id="2514" chance="889"/><!-- mastermind shield -->
+  <item id="2164" chance="170"/><!-- might ring -->
+  <item id="2472" chance="650"/><!-- magic plate armor -->
+  <item id="7393" chance="78"/><!-- demon trophy -->
+  <item id="7382" chance="60"/><!-- demonrage sword -->
+ </loot>
+</monster>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Minerazer" script="data/npc/scripts/Gorn.lua" walkinterval="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="260" head="10" body="90" legs="10" feet="38" addons="3"/>
+<voices>
+<voice text="Vendo pick para minerar, diga trade!" interval2="100" margin="1" yell="no"/>
+</voices>
+<parameters>
+<parameter key="module_keywords" value="1" />
+        <parameter key="keywords" value="goods;" />
+		<parameter key="keyword_reply1" value="Ola, voce pode {minerar} no andar de baixo comprando a minha {pick}, podendo ganhar items de refletir ataques, diga {trade}!"/>
+        <parameter key="message_farewell" value="Bye, |PLAYERNAME|."/>
+		<parameter key="message_walkaway" value="Bye!" />
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="pick,2553,10000" />
+	</parameters>
+</npc>

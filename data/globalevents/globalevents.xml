@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+
+	<!-- Server Events -->
+	<globalevent name="save" interval="7200000" event="script" value="save.lua"/>	
+	<globalevent name="clean" interval="7200000" event="script" value="clean.lua"/>
+	<globalevent name="init" type="startup" event="script" value="init.lua"/>
+	<globalevent name="globalsave" type="globalsave" event="script" value="init.lua"/>
+	<globalevent name="record" type="record" event="script" value="record.lua"/>
+	<globalevent name="shop" interval="30000" event="script" value="shop.lua"/>
+	<globalevent name="eventshop" interval="35000" event="script" value="eventshop.lua"/>
+	
+	<!-- RAID HORED FOX
+	<globalevent name="raids" interval="15000" event="script" value="raid.lua" /> -->
+	
+	<!-- REMOVE BATTLE -->
+	<globalevent name="removerbatle" interval="1" event="script" value="removerbatle.lua"/>
+	
+	<!-- DAILY QUEST  -->
+	<globalevent name="questDay" time="07:00:00" event="script" value="questday.lua"/>
+	<globalevent name="questDay" type="startup" event="script" value="questday2.lua"/>
+	
+	<!-- BURACO X  -->
+	<globalevent name="buracoglobal" time="20:30:00" script="events/buracoglobal.lua"/>
+	
+	<!-- WAVE EVENT  -->
+	<globalevent name="waveglobal2" time="13:30:00" script="events/waveglobal.lua"/>
+	<globalevent name="waveglobal" time="19:30:00" script="events/waveglobal.lua"/>
+	
+	<!-- AUTO SUMON  -->
+	<globalevent name="autosumon" type="startup" event="script" value="autosumon.lua"/>
+	
+	<!-- Efeito/mensagens Eventos Teleports -->
+	<globalevent name="magiceffProgramadas" interval="9000" event="script" value="MagiceffProgramadas.lua"/>
+	<globalevent name="MensagensProgramadas2" interval="29000" event="script" value="MensagensProgramadas.lua"/>
+	
+	<!-- Sistema de Cidade -->
+	<globalevent name="age" interval="865000" event="script" value="age.lua"/>
+	
+	<!-- Animated Teleports -->
+	<globalevent name="AnimatedTeleports" interval="2000" event="script" value="Animateds/AnimatedTeleports.lua"/>
+	<globalevent name="AnimatedTeleportsquests" interval="2000" event="script" value="Animateds/AnimatedTeleportsquest.lua"/>
+	<globalevent name="AnimatedTextsOthers" interval="2000" event="script" value="Animateds/AnimatedTextsOthers.lua"/>
+	<globalevent name="AnimatedTeleportsDonate" interval="2000" event="script" value="Animateds/AnimatedTeleportsDonate.lua"/>
+	<globalevent name="AnimatedTeleportsMegaitem" interval="2000" event="script" value="Animateds/AnimatedTeleportsMegaitem.lua"/>
+	<globalevent name="AnimatedoTPTEMPLE" interval="2000" event="script" value="Animateds/AnimatedoTPTEMPLE.lua"/>
+	
+	<!-- Invasão boss -->
+	<globalevent name="BIThink" interval="60000" event="script" value="events/bossinvasion.lua"/>
+    <globalevent name="BITimer" time="17:00:00" event="script" value="events/bossinvasion.lua"/>
+	
+	<!-- Cave Exclusive -->
+	<globalevent name="Check Caves" interval="20000" event="script" value="Killua Cave Owners 2.lua"/>
+	<globalevent name="startCave" type="startup" event="script" value="Killua Cave Owners.lua"/>
+	
+	<!-- Battlefield -->
+	<globalevent name="Battlefield" time="19:00" event="script" value="events/BattlefieldOpen.lua"/>
+	
+	<!-- WEEKEND EXP -->
+	<globalevent name="weekend_exp" interval="55000" event="script" value="weekend_exp.lua"/>﻿
+	
+	<!-- GUILD SHOP -->
+	<globalevent name="shopguild" interval="30000" event="script" value="shopguild.lua"/>
+	
+	<!-- CastleWar -->
+	<globalevent name="iniCastle2" interval="60000" event="script" value="events/castle/iniCastle2.lua"/>
+	<globalevent name="remove2" time="22:59:00" script="events/castle/checkout.lua"/>
+	<globalevent name="MensagensProgramadas" interval="60000" event="script" value="events/castle/MensagensProgramadas.lua"/>
+	<globalevent name="init2" type="startup" event="script" value="events/castle/init2.lua"/>
+	
+	<!-- Evento - Island of Elementals -->
+	<globalevent name="OPENIOE" time="01:20:00" event="script" value="events/IOE.lua"/>
+	
+	<!-- DesertWar Event -->
+    <globalevent name="desertwar" time="17:00" event="script" value="events/DesertWAR.lua"/>
+	
+	<!-- FireStorm Event -->
+	<globalevent name="firestorm" time="14:00:00" event="script" value="events/FireStorm.lua"/>
+    <globalevent name="firestorm2" time="02:30:00" event="script" value="events/FireStorm.lua"/>
+	
+	<!-- Defend the Towers -->
+	<globalevent name="dttOpen" time="20:00:00" event="script" value="events/DTT.lua"/>
+	
+	<!-- CTF -->
+	<globalevent name="ctf" time="15:00" event="script" value="events/CTF.lua"/>
+	
+	<!-- Zombie Event -->
+	<globalevent name="iniZombie" interval="60000" event="script" value="events/zombie/iniZombie.lua"/>
+	<globalevent name="ZombieGlobalThink" interval="5000" event="script" value="events/zombie/onthink.lua"/>
+    <globalevent name="ZombieGlobalStartup" type="start" event="script" value="events/zombie/onstartup.lua"/>
+	
+	<!-- Evento XP -->
+	<globalevent name="iniPvp" time="21:00:00" script="events/iniPvp.lua"/>
+	<globalevent name="iniPvp2" time="23:00:00" script="events/iniPvp2.lua"/>
+	
+	<!-- Evento - Snow Ball War -->
+	<globalevent name="StartSBW" time="18:00:00" event="script" value="events/SBW.lua"/>
+	<globalevent name="AnimatedSBW" interval="1500" event="script" value="events/SBW_animated.lua"/>
+
+	<!-- Broadcasts INFOS -->
+	<globalevent name="ShopMsg" interval="1500000" event="script" value="broadcast/shopmsg.lua"/>
+    <globalevent name="propaganda1" interval="900000" event="script" value="broadcast/propaganda1.lua"/>
+	<globalevent name="propaganda2" interval="900000" event="script" value="broadcast/propaganda2.lua"/>
+	<globalevent name="propaganda3" interval="900000" event="script" value="broadcast/propaganda3.lua"/>
+	<globalevent name="propaganda4" interval="900000" event="script" value="broadcast/propaganda4.lua"/>
+	<globalevent name="anuncio1" interval="1180000" event="script" value="broadcast/anuncio1.lua"/>
+    <globalevent name="anuncio2" interval="1180000" event="script" value="broadcast/anuncio2.lua"/>
+    <globalevent name="anuncio3" interval="1200000" event="script" value="broadcast/anuncio3.lua"/>
+    <globalevent name="anuncio4" interval="1200000" event="script" value="broadcast/anuncio4.lua"/>
+    <globalevent name="anuncio5" interval="1200000" event="script" value="broadcast/anuncio5.lua"/>
+
+
+	<!-- Lottery -->
+	<globalevent name="lottery" interval="60000" event="script" value="lottery.lua"/>
+
+	<!-- Stream Temple -->
+	
+	<!-- Examples -->
+	<!-- <globalevent name="timer_example" time="21:35:11" event="script" value="my_script.lua"/> -->
+</globalevents>

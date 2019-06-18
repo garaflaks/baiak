@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Deusa" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0" emblem="1">
+    <health now="100" max="100"/>
+	<look type="138" head="111" body="125" legs="47" feet="96" addons="3"/>
+	<parameters>
+		<parameter key="message_greet" value="Voce salvou o universo, em recompensa te darei a chance de ficar ainda mais forte, ao sair no teleporte localizado a direita, você estará de frente com a porta do paraiso. {ATENÇÃO} ao clicar na porta sagrada você terá {1 segundo} para entrar e sua {Promotion Key será removida.}"/>
+        <parameter key="message_farewell" value="Tchau!"/>
+		<parameter key="message_walkaway" value="Tchau!" />
+    </parameters>
+</npc>

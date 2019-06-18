@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="BOSS King Extreme" nameDescription="BOSS King Extreme" race="fire" experience="500000" speed="0" manacost="0">
+<health now="5400000" max="5400000"/>
+<look type="12" head="9" body="86" legs="9" feet="94" corpse="6068"/>
+<targetchange interval="5000" chance="8"/>
+<strategy attack="0" defense="20"/>
+
+<flags>
+	<flag summonable="0"/>
+	<flag attackable="1"/>
+	<flag hostile="1"/>
+	<flag illusionable="0"/>
+	<flag convinceable="0"/>
+	<flag pushable="0"/>
+	<flag canpushitems="1"/>
+	<flag canpushcreatures="1"/>
+	<flag targetdistance="1"/>
+	<flag staticattack="85"/>
+	<flag runonhealth="0"/>
+</flags>
+
+
+
+<defenses armor="35" defense="45"/>
+
+<elements>
+    <element icePercent="-10"/>
+    <element energyPercent="35"/>
+    <element deathPercent="-12"/>
+</elements>
+
+<immunities>
+	<immunity fire="1"/>
+    <immunity invisible="1"/>
+    <immunity paralyze="1"/>
+</immunities>
+
+<voices interval="5000" chance="10">
+	<voice sentence="Extreme Boss VAI TE PEGAR MUHAHAHAA!" yell="1"/>
+</voices>
+
+<loot>
+	<item id="12658" count="1" chance="1000"/> --Gold
+	<item id="6300" count="1" chance="1000"/> -- Gold
+	<item id="8306" countmax="3" chance1="80000" chancemax="10000"/> --Platinum
+	<item id="9693" countmax="1" chance1="7777"/> --Black Pearls
+	<item id="8981" chance="4500"/> --mastermind shield
+	<item id="2171" chance="12222"/> --P ammy
+	<item id="1987" chance="100000">
+		<inside>
+			<item id="10502" countmax="1" chance1="1000" chancemax="0"/> --Talons
+			<item id="7443" chance="6555"/> --Golden Legs
+			<item id="2346" chance="8200"/> --Fire Axe
+		</inside>
+	</item>
+</loot>
+</monster>

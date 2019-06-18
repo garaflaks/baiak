@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <monster name="Yalahari" nameDescription="a Yalahari" race="blood" experience="0" speed="200" manacost="0">
+    <health now="70000" max="70000"/>
+	<look type="309" head="38" body="88" legs="88" feet="115" addons="0" corpse="0"/>
+   <targetchange interval="60000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+      <flag summonable="0"/>
+      <flag attackable="1"/>
+      <flag hostile="1"/>
+      <flag illusionable="0"/>
+      <flag convinceable="0"/>
+      <flag pushable="0"/>
+      <flag canpushitems="1"/>
+      <flag staticattack="50"/>
+      <flag lightlevel="0"/>
+      <flag lightcolor="0"/>
+      <flag targetdistance="1"/>
+      <flag runonhealth="0"/>
+    </flags>
+   <attacks>
+			<attack name="melee" interval="2000" skill="40" attack="50"/>
+		<attack name="manadrain" interval="1000" chance="7" range="7" min="-500" max="-600">
+			<attribute key="shootEffect" value="energy"/>
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+		<attack name="strength" interval="1000" chance="9" range="7">
+			<attribute key="shootEffect" value="largerock"/>
+			<attribute key="areaEffect" value="energyarea"/>
+		</attack>
+		<attack name="fire" interval="1000" chance="34" range="7" radius="7" target="1" min="-200" max="-400">
+			<attribute key="shootEffect" value="fire"/>
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>		
+	</attacks>
+    <defenses armor="0" defense="0">
+      <defense name="healing" interval="10000" chance="100" min="1000" max="1000"/>
+    </defenses>
+    <immunities>
+      <immunity invisible="0"/>
+    </immunities>
+	<script>
+<event name="yalahari"/>
+</script>	
+  </monster>

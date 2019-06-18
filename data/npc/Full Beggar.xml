@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Full Beggar" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="153" head="2" body="81" legs="0" feet="70" addons="3"/>
+<voices>
+<voice text="Cada addon um segredo! Posso lhe ajudar?" interval2="100" margin="1" yell="no"/>
+</voices>
+<parameters>
+<parameter key="message_farewell" value="Tchau Tchau, volte sempre!" />
+<parameter key="message_walkaway" value="Tchau Tchau, volte sempre!" />
+ <parameter key="module_keywords" value="1" />
+ <parameter key="keywords" value="beggar" />
+ <parameter key="keyword_reply1" value="Basta ter 100x red dragon leather, este item podem ser obtido matando dragon lords." />
+ <parameter key="message_greet" value="Seja Bem vindo |PLAYERNAME|. voce gostaria de saber sobre o {full beggar addon?}"/>
+</parameters>
+</npc>

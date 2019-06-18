@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Ice Evil" nameDescription="a Ice Evil" race="fire" experience="90500" speed="400" manacost="0">
+  <health now="30000" max="30000"/>
+  <look type="12" head="19" body="85" legs="86" feet="126" corpse="6068"/>
+  <targetchange interval="10000" chance="5"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag staticattack="85"/>
+    <flag targetdistance="1"/>
+    <flag runonhealth="0"/>
+  </flags>
+<attacks>
+    <attack name="melee" interval="1000" skill="120" attack="120"/>
+    <attack name="ice" interval="2000" chance="25" range="7" radius="10" target="1" min="-400" max="-799">
+		<attribute key="shootEffect" value="ice"/>
+		<attribute key="areaEffect" value="icearea"/>
+	</attack>
+    <attack name="lifedrain" interval="2000" chance="25" radius="10" target="0" min="-500" max="-700">
+		<attribute key="areaEffect" value="rednote"/>
+	</attack>
+    <attack name="ice" interval="2000" chance="25" radius="10" target="0" min="-1" max="-950">
+		<attribute key="areaEffect" value="mortarea"/>
+	</attack>
+	<attack name="death" interval="2000" chance="25" length="5" spread="5" min="-300" max="-600">
+		<attribute key="areaEffect" value="mortarea"/>
+	</attack>
+    <attack name="speed" interval="2000" chance="25" target="1" speedchange="-800" duration="4000">
+		<attribute key="areaEffect" value="redshimmer"/>
+	</attack>
+</attacks>
+<defenses armor="90" defense="90">
+    <defense name="healing" interval="2000" chance="15" min="800" max="1500">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+	<elements>
+		<element physicalPercent="40"/>
+		<element icePercent="80"/>
+		<element deathPercent="-15"/>
+		<element firePercent="-30"/>
+		<element holyPercent="-10"/>
+	</elements>
+  <immunities>
+    <immunity energy="1"/>
+    <immunity fire="0"/>
+    <immunity poison="1"/>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <summons maxSummons="1">
+	<summon name="water elemental" interval="15000" chance="1"/>					  
+  </summons>
+  <voices interval="5000" chance="10">
+    <voice sentence="My path was chosen" yell="1"/>
+    <voice sentence="I was sleep since 2000 years in the ices!"/>
+    <voice sentence="The Triangle has envy with me!"/>
+	<voice sentence="You...Will...(Brrrr)...Die!" yell="1"/>
+  </voices>
+ <loot>
+  <item id="2160" chance="50000"/><!-- platinum coin -->
+  <item id="2795" countmax="5" chance="20000"/><!-- fire mushroom -->
+  <item id="2432" chance="3703"/><!-- fire axe -->
+  <item id="2393" chance="2000"/><!-- giant sword -->
+  <item id="2418" chance="1428"/><!-- golden sickle -->
+  <item id="2165" chance="1333"/><!-- stealth ring -->
+  <item id="2462" chance="1204"/><!-- devil helmet -->
+  <item id="1982" chance="1190"/><!-- purple tome -->
+  <item id="2179" chance="1010"/><!-- gold ring -->
+  <item id="2171" chance="813"/><!-- platinum amulet -->
+  <item id="2396" chance="666"/><!-- ice rapier -->
+  <item id="2520" chance="1049"/><!-- demon shield -->
+  <item id="2214" chance="473"/><!-- ring of healing -->
+  <item id="5954" chance="467"/><!-- demon horn -->
+  <item id="2470" chance="613"/><!-- golden legs -->
+  <item id="2514" chance="889"/><!-- mastermind shield -->
+  <item id="2164" chance="170"/><!-- might ring -->
+  <item id="2472" chance="650"/><!-- magic plate armor -->
+  <item id="7393" chance="78"/><!-- demon trophy -->
+  <item id="7382" chance="60"/><!-- demonrage sword -->
+ </loot>
+</monster>

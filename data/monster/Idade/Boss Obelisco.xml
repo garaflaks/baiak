@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Boss Obelisco" nameDescription="a boss obelisco" race="undead" experience="5000" speed="400" manacost="0">
+	<health now="300000" max="300000"/>
+<look type="275" head="78" body="76" legs="94" feet="115" addons="2" corpse="0"/>
+	<targetchange interval="2000" chance="100"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag staticattack="98"/>
+		<flag targetdistance="1"/>
+		<flag runonhealth="5500"/>
+	</flags>
+		<attacks>
+		<attack name="melee" interval="1000" min="-120" max="-141"/>
+		<attack name="melee" interval="1000" chance="10" range="7" radius="6" target="0" min="-470" max="-490">
+			<attribute key="areaEffect" value="blackspark"/>
+		</attack>
+		<attack name="melee" interval="1000" chance="30" range="7" radius="1" target="1" min="-375" max="-395">
+			<attribute key="shootEffect" value="whirlwindsword"/>
+			<attribute key="areaEffect" value="redspark"/>
+		</attack>
+		<attack name="energy" interval="1000" chance="40" length="8" spread="0" min="-230" max="-250">
+			<attribute key="areaEffect" value="mortarea"/>
+		</attack>
+		<attack name="physical" interval="1000" chance="10" range="14" radius="5" target="0" min="-250" max="-292">
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+		<attack name="physical" interval="1000" chance="20" range="7" radius="13" target="0" min="-260" max="-380">
+			<attribute key="areaEffect" value="yellowspark"/>
+		</attack>
+		<attack name="physical" interval="1000" chance="10" radius="14" target="0" min="-120" max="-160">
+			<attribute key="areaEffect" value="bluebubble"/>
+		</attack>
+		<attack name="melee" interval="1000" chance="40" range="7" radius="4" target="0" min="-230" max="-250">
+			<attribute key="areaEffect" value="energyarea"/>
+				</attack>
+		<attack name="poison" interval="1000" chance="30" radius="6" target="0" min="-165" max="-170">
+			<attribute key="areaEffect" value="poison"/>
+		</attack>
+		<attack name="energy" interval="1000" chance="10" radius="6" target="0" min="-130" max="-170">
+			<attribute key="areaEffect" value="energy"/>
+		</attack>
+		<attack name="manadrain" interval="1000" chance="26" radius="6" target="0" min="-132" max="-147">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="lifedrain" interval="1000" chance="11" radius="6" target="0" min="-140" max="-155">
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+		<attack name="effect" interval="1000" chance="20" radius="5" target="0" min="-240" max="-270">
+			<attribute key="areaEffect" value="blackspark"/>
+		</attack>
+		<attack name="firecondition" interval="1000" chance="10" range="7" radius="7" target="1" min="-130" max="-150">
+			<attribute key="shootEffect" value="fire"/>
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+		<attack name="lifedrain" interval="1000" chance="5" length="8" spread="0" min="-225" max="-245">
+			<attribute key="areaEffect" value="greenspark"/>
+		</attack>
+	</attacks>
+	<defenses armor="55" defense="65">
+		<defense name="healing" interval="1000" chance="100" min="700" max="1800">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<immunities>
+		<immunity energy="1"/>
+		<immunity fire="1"/>
+		<immunity poison="1"/>
+		<immunity lifedrain="1"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity drunk="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+
+	<voices interval="5000" chance="30">
+		<voice sentence="FELIZ ANIVERSARIO OU FELIZ MORTE?"/>
+		<voice sentence="SUA MORTE EH MEU PREMIO!" yell="1"/>
+		<voice sentence="AS MARICAS CHORAM! BU!" yell="1"/>
+	</voices>
+	<loot>
+	</loot>
+<script>
+<event name="35anos"/>
+</script>
+</monster>

@@ -1,0 +1,168 @@
+The Fantasy Version: (MP.X.SERIES - -) - Codename: (Fantasy)
+Compiled with GNU C++ version 4.9.2 for arch 64 Bits at Jun 14 2019 17:27:35
+
+A server developed by: The Forgotten Server Developers.
+Visit our forums for updates, support, and resources: Fantasy.com.br
+
+>> Loading config (config.lua)
+>> Opening logs
+>> Loading Password encryption:
+>>> Using (SHA1) encryption ... (done).
+>> Loading RSA key
+>> Starting SQL connection
+>> Running Database Manager
+>> Loading groups
+>> Loading items (OTB)
+>> Loading items (XML)
+>> Loading outfits
+>> Loading quests
+>> Loading raids
+>> Loading vocations
+>> Loading chat channels
+>> Loading experience stages
+>> Loading mods:
+>>> Loading events_mods.xml ... (done).
+>>> Loading hunted.xml ... (done).
+>>> Loading highscorebook.xml ... (done).
+>>> Loading mod_cast.xml ... (done).
+>>> Loading custom_commands.xml ... (done), but disabled.
+>>> Loading firstitems_voc.xml ... (done).
+>>> Loading Simple_Task.xml ... (done).
+>>> Loading annihilator.xml ... (done).
+>>> (1) mods were disabled.
+>> Loading script systems:
+>>> Loading weapons... (done).
+>>> Preparing weapons... (done).
+>>> Loading spells... (done).
+>>> Loading actions... (done).
+>>> Loading talkactions... (done).
+>>> Loading movements... (done).
+>>> Loading creaturescripts... (done).
+>>> Loading globalscripts... (done).
+>> Loading monsters
+>> Loading map and spawns:
+>>> Map size: 2738x2418.
+>>> Map descriptions: - "Saved with Remere's Map Editor 3.4" - "Wakeserv"
+>>> Loading time: 7.797 seconds.
+>>> Parsing time: 0.319 seconds.
+>>> Synchronization time: 0.595 seconds.
+>>> Unserialization time: 0.006 seconds.
+>> Checking world type: Open PvP
+>> Starting to dominate the world... done.
+>> Initializing game state and binding services:
+>> Global IP address(es): 192.99.43.164
+>>> Local IP address(es): 127.0.1.1	
+> Bound ports: 7171	7172	
+>> Everything smells good, server is starting up...
+>> Fantasy server Online!
+
+Teste Pally has logged in.
+> Broadcasted message: "Teste Pally [Level: 314] foi morto pelo monstro Fire Elemental.".
+Teste Pally has logged out.
+Teste Pally has logged in.
+Teste Pally has logged out.
+Teste Pally has logged in.
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Auto Loot: sistema de pegar loots. Para mais informações digite /autoloot".
+> Broadcasted message: "Dodge System / Critical System / Reflect System: Para mais informações, digite !dodge / !critical / !reflect.".
+> Broadcasted message: "Curta nossa pagina no facebook e fique por dentro dos sorteios, promoções e updates! https://www.facebook.com/tibiafantasy".
+> Broadcasted message: "use o comando !eject na frente da porta de alguma casa e torne-se dono. Para saber quais casas estao disponiveis http://fantasy.com.br/?subtopic=Inactives_Houses".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Broadcasted message: "Fique ligado! Ás 10:00hrs ocorrerá o Zombie Event! O Teleport será ativado no templo.".
+> Saving server...
+> SAVE: Complete in 0.109 seconds using binary-tilebased house storage.
+> Broadcasted message: "Fique ligado! Ás 10:00hrs ocorrerá o Zombie Event! O Teleport será ativado no templo.".
+> Broadcasted message: "Fique ligado! Ás 10:00hrs ocorrerá o Zombie Event! O Teleport será ativado no templo.".
+> Broadcasted message: "Fique ligado! Ás 10:00hrs ocorrerá o Zombie Event! O Teleport será ativado no templo.".
+> Broadcasted message: "Reporte Bugs, Pagamentos, Sugestoes e Duvidas!!
+Faça login em nosso website e na aba da sua account, haverá uma area de ticket no final da pagina.".
+> Broadcasted message: "Aproveite a promoção DOUBLE POINTS: http://fantasybaiak.com.br/?subtopic=donate".
+> Broadcasted message: "Apos obter Event coins, você deve deposita-los no npc Event Bank no segundo andar do templo.
+Apos deposita-los eles erão estar disponiveis no EVENT SHOP. ACESSE O SITE: http://fantasy.com.br/?subtopic=eventshop".
+> Broadcasted message: "Zombie: 10h e 16h 
+FireStorm: 14h e 02:30h 
+CTF: 15h
+DesertWar: 17h
+Snowball: 18h
+Battlefield: 19h
+Defend The Tower: 20h
+PvpEnfoced: 22h~23h
+Castle War: 22:00
+IOE: 23h
+WAVE EVENT: 13:30h e 19:30
+BURACO X: 20:30h".
+> Broadcasted message: "Não esqueça de pagar o ALUGUEL da sua casa.
+Para paga-lo você deve deixar o dinheiro no banco com o npc Oswaldo (SUBSOLO DO TEMPLO).
+Para saber comandos de house acesse http://fantasy.com.br/?subtopic=Commands".
+> Broadcasted message: "Fique ligado! Ás 10:00hrs ocorrerá o Zombie Event! O Teleport será ativado no templo.".
+> Broadcasted message: "Fique ligado! Ás 10:00hrs ocorrerá o Zombie Event! O Teleport será ativado no templo.".
+> Broadcasted message: "[ZOMBIE EVENT] O evento foi iniciado. Estamos esperando 40 players ou 2 players no minimo. 5 minutos para iniciar o evento, corra para o teleport.".
+Ninguem OnLine pra ganhar na loteria
+> Broadcasted message: "Extra Extra! O mais procurado das terras do wake baiak é "Teste Pally", e se voce mata-lo, o rei pagará para você 2492 k !".
+> Broadcasted message: "{Mensagem} Confira nosso SHOPPING DONATE e deixe eu personagem devidamente equipado! Mais Informações, Acesse -> http://fantasy.com.br/?subtopic=shopsystem".
+
+[Error - GlobalEvent Interface] 
+In a timer event called from: 
+data/globalevents/scripts/events/zombie/iniZombie.lua:onThink
+Description: 
+(luaDoPlayerSendTextMessage) Player not found
+> Broadcasted message: "Teste Pally [Level: 357] foi morto pelo monstro Hellhound.".
+Teste Pally has logged out.
+Teste Pally has logged in.
+> Broadcasted message: "Teste Pally [Level: 352] foi morto pelo monstro Dedo Gordo.".
+Teste Pally has logged out.
+Teste Pally has logged in.
+Teste Pally has logged out.
+Wilzao has logged in.
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Auto Loot: sistema de pegar loots. Para mais informações digite /autoloot".
+> Broadcasted message: "Dodge System / Critical System / Reflect System: Para mais informações, digite !dodge / !critical / !reflect.".
+> Broadcasted message: "Curta nossa pagina no facebook e fique por dentro dos sorteios, promoções e updates! https://www.facebook.com/tibiafantasy".
+> Broadcasted message: "use o comando !eject na frente da porta de alguma casa e torne-se dono. Para saber quais casas estao disponiveis http://fantasy.com.br/?subtopic=Inactives_Houses".
+Wilzao has logged out.
+Teste Pally has logged in.
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+Teste Pally has logged out.
+Wilzao has logged in.
+> Saving server...
+> SAVE: Complete in 0.124 seconds using binary-tilebased house storage.
+Wilzao has logged out.
+Teste Pally has logged in.
+[Warning - Groups::getGroup] Group 0 not found.
+Anderzor has logged in.
+> Broadcasted message: "Reporte Bugs, Pagamentos, Sugestoes e Duvidas!!
+Faça login em nosso website e na aba da sua account, haverá uma area de ticket no final da pagina.".
+> Broadcasted message: "Aproveite a promoção DOUBLE POINTS: http://fantasybaiak.com.br/?subtopic=donate".
+> Broadcasted message: "Apos obter Event coins, você deve deposita-los no npc Event Bank no segundo andar do templo.
+Apos deposita-los eles erão estar disponiveis no EVENT SHOP. ACESSE O SITE: http://fantasy.com.br/?subtopic=eventshop".
+> Broadcasted message: "Zombie: 10h e 16h 
+FireStorm: 14h e 02:30h 
+CTF: 15h
+DesertWar: 17h
+Snowball: 18h
+Battlefield: 19h
+Defend The Tower: 20h
+PvpEnfoced: 22h~23h
+Castle War: 22:00
+IOE: 23h
+WAVE EVENT: 13:30h e 19:30
+BURACO X: 20:30h".
+> Broadcasted message: "Não esqueça de pagar o ALUGUEL da sua casa.
+Para paga-lo você deve deixar o dinheiro no banco com o npc Oswaldo (SUBSOLO DO TEMPLO).
+Para saber comandos de house acesse http://fantasy.com.br/?subtopic=Commands".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Auto Loot: sistema de pegar loots. Para mais informações digite /autoloot".
+> Broadcasted message: "Dodge System / Critical System / Reflect System: Para mais informações, digite !dodge / !critical / !reflect.".
+> Broadcasted message: "Curta nossa pagina no facebook e fique por dentro dos sorteios, promoções e updates! https://www.facebook.com/tibiafantasy".
+> Broadcasted message: "use o comando !eject na frente da porta de alguma casa e torne-se dono. Para saber quais casas estao disponiveis http://fantasy.com.br/?subtopic=Inactives_Houses".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.129 seconds using binary-tilebased house storage.
+Anderzor has logged out.
+> Broadcasted message: "{Mensagem} Confira nosso SHOPPING DONATE e deixe eu personagem devidamente equipado! Mais Informações, Acesse -> http://fantasy.com.br/?subtopic=shopsystem".
+Teste Pally has logged out.
+Teste Pally has logged in.
+Teste Pally has logged out.
+Wilzao has logged in.
+Wilzao has logged out.
+Wilzao has logged in.

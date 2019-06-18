@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Rei" nameDescription="a rei" race="blood" experience="0" speed="0" manacost="0">
+	<health now="250000" max="250000"/>
+	<look typeex="9242" corpse="0"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="0"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<defenses armor="25" defense="30"/>
+	<elements>
+		<element earthPercent="0"/>
+		<element icePercent="0"/>
+		<element firePercent="5"/>
+		<element energyPercent="0"/>
+		<element physicalPercent="2"/>
+		<element deathPercent="0"/>
+		<element holyPercent="-6"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="1000" chance="40">
+		<voice sentence="Eu sou o rei!" yell="1"/>
+		<voice sentence="Como ousa me atacar?!" yell="1"/>
+		<voice sentence="Guardas!" yell="1"/>
+		<voice sentence="Saiam do meu castelo!"/>
+		<voice sentence="Este castelo e meu!"/>
+	</voices>
+</monster>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Demonio de Lucifer" script="data/npc/scripts/default.lua" walkinterval="0">
+    <health now="100" max="100"/>
+	<look type="336" head="114" body="114" legs="114" feet="144" addons="3"/>
+	<parameters>
+		<parameter key="message_greet" value="Vieram se juntar a nos? Lucifer aguarda sua alma!"/>
+        <parameter key="message_farewell" value=">:("/>
+		<parameter key="message_walkaway" value=">:(" />
+    </parameters>
+</npc>

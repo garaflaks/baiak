@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raids>
+	<!-- The Horned Fox -->
+	<raid name="HornedFox" file="hornedfox.xml" interval2="820" margin="0" reftype="block" ref="no"/>
+	
+</raids>

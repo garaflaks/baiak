@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Second Hunter" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="129" head="100" body="86" legs="61" feet="94" addons="2"/>
+<voices>
+<voice text="Cada addon um segredo! Posso lhe ajudar?" interval2="100" margin="1" yell="no"/>
+</voices>
+<parameters>
+<parameter key="message_farewell" value="Tchau Tchau, volte sempre!" />
+<parameter key="message_walkaway" value="Tchau Tchau, volte sempre!" />
+ <parameter key="module_keywords" value="1" />
+ <parameter key="keywords" value="hunter" />
+ <parameter key="keyword_reply1" value="Basta ter 1x sniper gloves, pode ser obtido em hunters ao sul da cidade principal." />
+ <parameter key="message_greet" value="Seja Bem vindo |PLAYERNAME|. voce gostaria de saber sobre o {second hunter addon?}"/>
+</parameters>
+</npc>

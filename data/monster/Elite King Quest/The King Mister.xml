@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="The King Mister" nameDescription="a the king mister" race="energy" experience="100000" speed="560" manacost="0">
+        <health now="120000" max="120000"/>
+        <look type="12" head="79" body="114" legs="114" feet="0" corpse="0"/>
+        <targetchange interval="5000" chance="8"/>
+        <strategy attack="100" defense="0"/>
+        <flags>
+                <flag summonable="0"/>
+                <flag attackable="1"/>
+                <flag hostile="1"/>
+                <flag illusionable="0"/>
+                <flag convinceable="0"/>
+                <flag pushable="0"/>
+                <flag canpushitems="1"/>
+                <flag canpushcreatures="1"/>
+                <flag targetdistance="1"/>
+                <flag staticattack="85"/>
+                <flag runonhealth="0"/>
+        </flags>
+
+        <attacks>
+                <attack name="melee" interval="2000" skill="120" attack="175"/>
+                <attack name="energy" interval="6000" chance="20" length="8" spread="0" max="-500">
+                        <attribute key="areaEffect" value="purpleenergy"/>
+                </attack>
+                <attack name="fire" interval="2000" chance="39" radius="5" target="1" max="-1100">
+                        <attribute key="areaEffect" value="firearea"/>
+                </attack>
+                <attack name="ice" interval="2000" chance="25" range="10" min="-278" max="-300">
+                        <attribute key="shootEffect" value="ice"/>
+                        <attribute key="areaEffect" value="icearea"/>
+                </attack>
+                <attack name="death" interval="1000" chance="22" range="7" radius="7" target="1" min="-200" max="-400">
+                        <attribute key="shootEffect" value="suddendeath"/>
+                        <attribute key="areaEffect" value="mortarea"/>
+                </attack>              
+                <attack name="earth" interval="1000" chance="30" range="7" radius="7" target="1" min="-800" max="-900">
+                        <attribute key="shootEffect" value="largerock"/>
+                        <attribute key="areaEffect" value="plantattack"/>
+                </attack>
+        </attacks>
+       <defenses armor="130" defense="130">
+                <defense name="healing" interval="15000" chance="30" min="1220" max="3800">
+					<attribute key="areaEffect" value="blueshimmer"/>
+				</defense>
+                <defense name="speed" interval="1000" chance="6" speedchange="1901" duration="7000">
+                        <attribute key="areaEffect" value="redshimmer"/>
+                </defense>
+        </defenses>
+        <elements>
+                <element physicalPercent="50"/>
+                <element icePercent="50"/>
+                <element energyPercent="50"/>
+                <element earthPercent="50"/>
+                <element holyPercent="50"/>
+                <element deathPercent="50"/>
+                <element firePercent="50"/>
+                <element drownPercent="-50"/>
+        </elements>
+        <immunities>
+                <immunity lifedrain="1"/>
+                <immunity paralyze="1"/>
+                <immunity invisible="1"/>
+        </immunities>
+        <summons max="2">
+                <summon name="Demon" interval="1000" chance="7" max="1"/>
+                <summon name="Warlock" interval="1000" chance="7" max="1"/>
+        </summons>
+        <voices interval="5000" chance="0">
+                <voice sentence="Delicious!"/>
+                <voice sentence="I'm The King Horus and you are dead man!"/>
+                <voice sentence="I'll Kill you few seconds!"/>
+        </voices>
+        <loot>
+</loot>
+  <script>
+<event name="Mister"/>
+</script>
+</monster>

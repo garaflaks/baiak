@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Lucifer Furious" nameDescription="a lucifer furious" race="undead" experience="100000" speed="550" manacost="0">
+	<health now="1900000" max="1900000"/>
+	<look type="12" head="114" body="94" legs="114" feet="114" addons="3" corpse="0"/>
+	<targetchange interval="2000" chance="100"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag staticattack="98"/>
+		<flag targetdistance="1"/>
+		<flag runonhealth="5500"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-800" max="-1391"/>
+		<attack name="melee" interval="1000" chance="10" range="7" radius="6" target="0" min="-650" max="-900">
+			<attribute key="areaEffect" value="blackspark"/>
+		</attack>
+		<attack name="melee" interval="1000" chance="5" range="7" radius="1" target="1" min="-320" max="-900">
+			<attribute key="shootEffect" value="whirlwindsword"/>
+			<attribute key="areaEffect" value="redspark"/>
+		</attack>
+		<attack name="energy" interval="1000" chance="3" length="8" spread="0" min="-100" max="-500">
+			<attribute key="areaEffect" value="mortarea"/>
+		</attack>
+		<attack name="physical" interval="1000" chance="10" range="14" radius="5" target="0" min="-300" max="-880">
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+		<attack name="physical" interval="1000" chance="17" range="7" radius="13" target="0" min="-300" max="-850">
+			<attribute key="areaEffect" value="yellowspark"/>
+		</attack>
+		<attack name="physical" interval="1000" chance="10" radius="14" target="0" min="-100" max="-600">
+			<attribute key="areaEffect" value="bluebubble"/>
+		</attack>
+		<attack name="melee" interval="1000" chance="15" range="7" radius="4" target="0" min="-200" max="-750">
+			<attribute key="areaEffect" value="energyarea"/>
+				</attack>
+		<attack name="poison" interval="1000" chance="30" radius="6" target="0" min="-450" max="-650">
+			<attribute key="areaEffect" value="poison"/>
+		</attack>
+		<attack name="energy" interval="1000" chance="7" radius="6" target="0" min="-400" max="-600">
+			<attribute key="areaEffect" value="energy"/>
+		</attack>
+		<attack name="manadrain" interval="1000" chance="6" radius="6" target="0" min="-125" max="-275">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="lifedrain" interval="1000" chance="81" radius="6" target="0" min="-200" max="-350">
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+		<attack name="effect" interval="1000" chance="8" radius="5" target="0" min="-100" max="-110">
+			<attribute key="areaEffect" value="blackspark"/>
+		</attack>
+		<attack name="firecondition" interval="1000" chance="9" range="7" radius="7" target="1" min="-100" max="-200">
+			<attribute key="shootEffect" value="fire"/>
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+		<attack name="lifedrain" interval="1000" chance="42" length="8" spread="0" min="-50" max="-250">
+			<attribute key="areaEffect" value="greenspark"/>
+		</attack>
+	</attacks>
+	<defenses armor="55" defense="65">
+		<defense name="healing" interval="1000" chance="100" min="700" max="1800">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="speed" interval="4000" chance="80" speedchange="640" duration="2000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<immunities>
+		<immunity energy="1"/>
+		<immunity fire="1"/>
+		<immunity poison="1"/>
+		<immunity lifedrain="1"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity drunk="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="30">
+		<voice sentence="PRAZER LUCIFER!"/>
+		<voice sentence="SUA ALMA E MINHA!" yell="1"/>
+		<voice sentence="VIERAM EM MINHA CASA ME ATORMENTAR? SOFRAM!" yell="1"/>
+		<voice sentence="ME DE SUA ALMA!" yell="1"/>
+		<voice sentence="DISCIPULOS DE DEUS MORRERAO!"/>
+	</voices>
+	<loot>
+	</loot>
+<script>
+<event name="lucifer2"/>
+</script>
+</monster>

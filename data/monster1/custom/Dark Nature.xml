@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Dark Nature" nameDescription="a dark nature" race="venom" experience="21500" speed="280" manacost="0">
+    <health now="10500" max="10500"/>
+    <look type="310" corpse="9867"/>
+    <targetchange interval="5000" chance="8"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="0"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="0"/>
+        <flag convinceable="0"/>
+        <flag pushable="0"/>
+        <flag canpushitems="1"/>
+        <flag canpushcreatures="1"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="90"/>
+        <flag runonhealth="0"/>
+    </flags>
+    <attacks>
+        <attack name="melee" interval="1700" min="-840" max="-1200"/>
+        <attack name="poisonfield" interval="1000" chance="17" range="7" radius="1" target="1">
+            <attribute key="shootEffect" value="poison"/>
+        </attack>
+    </attacks>
+    <defenses armor="20" defense="20">
+        <defense name="speed" interval="1000" chance="6" speedchange="310" duration="20000">
+            <attribute key="areaEffect" value="redshimmer"/>
+        </defense>
+    </defenses>
+    <elements>
+        <element earthPercent="100"/>
+        <element energyPercent="20"/>
+        <element icePercent="20"/>
+        <element firePercent="-10"/>
+    </elements>
+    <immunities>
+        <immunity lifedrain="0"/>
+        <immunity paralyze="0"/>
+        <immunity outfit="1"/>
+        <immunity drunk="1"/>
+        <immunity invisible="1"/>
+    </immunities>
+    <summons maxSummons="2">
+        <summon name="Poison Spider" interval="1000" chance="1" max="1"/>
+    </summons>
+	<loot>
+		<item id="2160" countmax="2" chance="1228"/><!-- gold coin -->
+		<item id="2393" chance="1428"/><!-- giant sword -->
+		<item id="2514" chance="1100"/><!-- mastermind shield -->
+		<item id="2432" chance="2500"/><!-- fire axe -->
+		<item id="2472" chance="950"/><!-- magic plate armor -->
+		<item id="1987" chance="100000"><!-- bag -->
+			<inside>
+				<item id="2214" chance="500"/><!-- ring of healing -->
+				<item id="2678" countmax="3" chance="10000"/><!-- coconut -->
+				<item id="2148" countmax="100" chance="100000"/><!-- gold coin -->
+				<item id="2470" chance="900"/><!-- golden legs -->
+				<item id="2520" chance="1800"/><!-- demon shield -->
+			</inside>
+		</item>
+	</loot>
+</monster>

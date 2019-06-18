@@ -1,0 +1,3237 @@
+----- 25/11/2015 13:59:36 - [ADM] Slayer (192.168.0.5) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 195 112 180 109 132 109 109 132 110 160
+Last Packet: 180 019 008 000 047 105 032 049 050 055 049 051 112 000 177 003
+Player Position: [123,47,5]
+Player Name: [ADM] Slayer (MegaTibia)
+Player Action: 049 057 050 046 049 054 056 046 048 046 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 195) (MainWindow = 39459984), reason:
+Control.cpp 1325: unknown packet type during game (Type = 195)
+Wed Nov 25 13:59:08 2015
+Debug Assertion 8.60 Control.cpp 1325
+
+----- 22/6/2016 14:3:44 - Slayer (192.168.0.6) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 101 109 104 109 030 101 109 101 109
+Last Packet: 109 140 000 041 000 007 002 140 000 042 000 007 103 154 001 000
+Player Position: [140,41,7]
+Player Name: Slayer (WakeServ)
+Player Action: 049 057 050 046 049 054 056 046 048 046 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 2588504), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 2
+ zx: 8 zy: 7 zz: 0
+ dx: 0 dy: 1 dz: 0
+ abs_sx: 140 abs_sy: 41 abs_sz: 7
+ abs_zx: 140 abs_zy: 42 abs_zz: 7
+ Start Cylinder (1):  (10160,0) (1711,0) (7804,0) (99,268440597)
+ Start Cylinder (2):  (10160,0) (1711,0) (7804,0) (99,268440597)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (10160,0) (1712,0)
+ Destination Cylinder (2):  (10160,0) (1712,0)(-)(-)(-)(-)(-)(-)(-)(-)
+Wed Jun 22 14:03:26 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 22/6/2016 14:4:7 - Slayer (192.168.0.6) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 132 132 132 132 132 132 132 132 132
+Last Packet: 109 140 000 041 000 007 002 140 000 042 000 007 000 000 000 000
+Player Position: [139,44,7]
+Player Name: Slayer (WakeServ)
+Player Action: 049 057 050 046 049 054 056 046 048 046 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 39787656), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 9 sy: 3 sz: 0
+ Position: 2
+ zx: 9 zy: 4 zz: 0
+ dx: 0 dy: 1 dz: 0
+ abs_sx: 140 abs_sy: 41 abs_sz: 7
+ abs_zx: 140 abs_zy: 42 abs_zz: 7
+ Start Cylinder (1):  (10160,0) (1711,0) (7804,0) (99,268440598)
+ Start Cylinder (2):  (10160,0) (1711,0) (7804,0) (99,268440598)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (10160,0) (1712,0)
+ Destination Cylinder (2):  (10160,0) (1712,0)(-)(-)(-)(-)(-)(-)(-)(-)
+Wed Jun 22 14:03:56 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 22/6/2016 14:4:15 - Arsten (177.188.115.101) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GT 520
+Last Packet Types: 109 132 132 132 132 132 132 132 132 132
+Last Packet: 109 140 000 041 000 007 002 140 000 042 000 007 103 154 001 000
+Player Position: [140,41,7]
+Player Name: Arsten (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 28884088), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 2
+ zx: 8 zy: 7 zz: 0
+ dx: 0 dy: 1 dz: 0
+ abs_sx: 140 abs_sy: 41 abs_sz: 7
+ abs_zx: 140 abs_zy: 42 abs_zz: 7
+ Start Cylinder (1):  (10160,0) (1711,0) (7804,0) (99,268440598)
+ Start Cylinder (2):  (10160,0) (1711,0) (7804,0) (99,268440598)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (10160,0) (1712,0)
+ Destination Cylinder (2):  (10160,0) (1712,0)(-)(-)(-)(-)(-)(-)(-)(-)
+Wed Jun 22 14:03:50 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 23/6/2016 15:42:42 - Didi Aposentado (191.247.230.44) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Business Edition 32 Bit in BRA
+Processor: Intel Celeron B800 @ 1.
+Video Card: STANDARD 
+Last Packet Types: 170 030 107 104 109 104 109 104 109 104
+Last Packet: 170 000 000 000 000 015 000 068 105 100 105 032 065 112 111 115
+Player Position: [0,80,7]
+Player Name: Didi Aposentado (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1AC7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 822: exception occurred, reason:
+MapWindow.cpp 1599: exception occurred, reason:
+MapWindow.cpp 1583: unknown talk box mode (GetTalkboxMode(Talkbox) = 1)
+Thu Jun 23 15:42:21 2016
+Debug Assertion 8.60 MapWindow.cpp 1583
+
+----- 24/6/2016 15:32:18 - Arrombado (177.9.82.69) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GT 520
+Last Packet Types: 142 107 109 109 132 132 132 132 132 132
+Last Packet: 142 224 020 000 016 136 001 127 041 000 097 000 000 000 000 000
+Player Position: [141,48,6]
+Player Name: Arsten (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1D97F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 464), reason:
+MapWindow.cpp 1146: exception occurred (posx = 288) (posy = 32), reason:
+MapWindow.cpp 973: exception occurred, reason:
+MapWindow.cpp 957: exception occurred (Creature->OutfitType = 392) (Creature->CreatureID = 268440800), reason:
+Objects.cpp 494: exception occurred (Number = 392) (Flag = 24), reason:
+Container.h 226: index out of range (original i: 392, i: 391, min: 1, d: 367)
+Fri Jun 24 15:31:48 2016
+Debug Assertion 8.60 Container.h 226
+
+----- 24/6/2016 15:33:33 - Arsten (177.9.82.69) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GT 520
+Last Packet Types: 104 109 104 109 104 109 104 109 104 109
+Last Packet: 109 152 000 050 000 007 001 151 000 050 000 007 104 154 001 000
+Player Position: [151,50,7]
+Player Name: Arrombado (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 104) (MainWindow = 30063736), reason:
+Communication.cpp 1733: exception occurred, reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 97) (OldType = 429), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = 268440800), reason:
+Objects.cpp 604: exception occurred (Number = 392), reason:
+Container.h 226: index out of range (original i: 392, i: 391, min: 1, d: 367)
+Fri Jun 24 15:32:19 2016
+Debug Assertion 8.60 Container.h 226
+
+----- 24/6/2016 16:5:8 - Arsten (177.9.82.69) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GT 520
+Last Packet Types: 109 101 109 101 109 101 109 101 109 101
+Last Packet: 109 144 000 013 000 007 002 144 000 012 000 007 101 245 017 000
+Player Position: [144,8,7]
+Player Name: Arsten (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 28777712), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 1
+ zx: 8 zy: 5 zz: 0
+ dx: 0 dy: -1 dz: 0
+ abs_sx: 144 abs_sy: 8 abs_sz: 7
+ abs_zx: 144 abs_zy: 7 abs_zz: 7
+ Start Cylinder (1):  (4597,0) (7804,0) (99,268440838)
+ Start Cylinder (2):  (4597,0) (7804,0) (99,268440838)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4655,0)
+ Destination Cylinder (2):  (4655,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Fri Jun 24 16:04:50 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 24/6/2016 16:5:24 - Arsten (177.9.82.69) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GT 520
+Last Packet Types: 109 103 109 103 109 103 109 103 109 103
+Last Packet: 109 144 000 006 000 007 001 144 000 007 000 007 103 210 017 098
+Player Position: [144,8,7]
+Player Name: Arsten (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 29302000), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 1
+ zx: 8 zy: 7 zz: 0
+ dx: 0 dy: 1 dz: 0
+ abs_sx: 144 abs_sy: 8 abs_sz: 7
+ abs_zx: 144 abs_zy: 9 abs_zz: 7
+ Start Cylinder (1):  (4597,0) (7804,0) (99,268440838)
+ Start Cylinder (2):  (4597,0) (7804,0) (99,268440838)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4601,0)
+ Destination Cylinder (2):  (4601,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Fri Jun 24 16:05:08 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 24/6/2016 16:58:36 - Maedosheep (187.37.145.215) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Core 2 DUO E7400
+Video Card: ATI Radeon HD 3400 SERI
+Last Packet Types: 109 101 109 101 109 101 109 101 109 101
+Last Packet: 109 025 001 089 000 007 001 025 001 088 000 007 101 247 017 000
+Player Position: [281,89,7]
+Player Name: Maedosheep (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 28999512), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 1
+ zx: 8 zy: 5 zz: 0
+ dx: 0 dy: -1 dz: 0
+ abs_sx: 281 abs_sy: 89 abs_sz: 7
+ abs_zx: 281 abs_zy: 88 abs_zz: 7
+ Start Cylinder (1):  (4809,0) (7804,0) (99,268440842)
+ Start Cylinder (2):  (4809,0) (7804,0) (99,268440842)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4810,0)
+ Destination Cylinder (2):  (4810,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Fri Jun 24 16:58:22 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 26/6/2016 0:24:57 - Slayer (192.168.0.6) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 103 109 103 109 103 109 109 180 162
+Last Packet: 109 137 000 044 000 007 002 137 000 045 000 007 000 000 000 000
+Player Position: [136,47,7]
+Player Name: Slayer (WakeServ)
+Player Action: 049 057 050 046 049 054 056 046 048 046 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 9404248), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (100, 0), reason:
+ sx: 9 sy: 3 sz: 0
+ Position: 2
+ zx: 9 zy: 4 zz: 0
+ dx: 0 dy: 1 dz: 0
+ abs_sx: 137 abs_sy: 44 abs_sz: 7
+ abs_zx: 137 abs_zy: 45 abs_zz: 7
+ Start Cylinder (1):  (9481,0) (4532,0) (100,0) (99,268440797)
+ Start Cylinder (2):  (9481,0) (4532,0) (100,0) (99,268440797)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (9481,0) (4532,0)
+ Destination Cylinder (2):  (9481,0) (4532,0)(-)(-)(-)(-)(-)(-)(-)(-)
+Sun Jun 26 00:24:45 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 26/6/2016 0:25:10 - Arsten (177.102.234.67) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GT 520
+Last Packet Types: 109 109 109 109 104 109 132 132 132 132
+Last Packet: 109 137 000 044 000 007 002 137 000 045 000 007 103 154 001 000
+Player Position: [137,44,7]
+Player Name: Arsten (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 28359800), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (100, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 2
+ zx: 8 zy: 7 zz: 0
+ dx: 0 dy: 1 dz: 0
+ abs_sx: 137 abs_sy: 44 abs_sz: 7
+ abs_zx: 137 abs_zy: 45 abs_zz: 7
+ Start Cylinder (1):  (9481,0) (4532,0) (100,0) (99,268440797)
+ Start Cylinder (2):  (9481,0) (4532,0) (100,0) (99,268440797)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (9481,0) (4532,0)
+ Destination Cylinder (2):  (9481,0) (4532,0)(-)(-)(-)(-)(-)(-)(-)(-)
+Sun Jun 26 00:24:10 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 26/6/2016 18:48:45 - Arsten (191.205.147.223) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GT 520
+Last Packet Types: 180 100 108 104 109 180 100 108 104 109
+Last Packet: 109 151 000 048 000 007 003 150 000 048 000 007 104 176 039 116
+Player Position: [151,48,7]
+Player Name: Arsten (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Sun Jun 26 18:47:23 2016
+Debug Assertion 8.60 Network.cpp 921
+
+----- 27/6/2016 15:4:22 - Slayer (192.168.0.6) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 104 109 104 109 104 109 104 109 104
+Last Packet: 109 112 000 050 000 007 003 111 000 050 000 007 104 247 017 000
+Player Position: [112,50,7]
+Player Name: Slayer (WakeServ)
+Player Action: 049 057 050 046 049 054 056 046 048 046 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 2654040), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 3
+ zx: 7 zy: 6 zz: 0
+ dx: -1 dy: 0 dz: 0
+ abs_sx: 112 abs_sy: 50 abs_sz: 7
+ abs_zx: 111 abs_zy: 50 abs_zz: 7
+ Start Cylinder (1):  (4598,0) (4451,0) (4459,0) (7804,0) (99,268441019)
+ Start Cylinder (2):  (4598,0) (4451,0) (4459,0) (7804,0) (99,268441019)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4601,0)
+ Destination Cylinder (2):  (4601,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Mon Jun 27 15:04:03 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 27/6/2016 15:4:52 - Slayer (192.168.0.6) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 102 109 102 109 107 030 030 210 210
+Last Packet: 109 111 000 050 000 007 001 112 000 050 000 007 102 245 017 000
+Player Position: [112,50,7]
+Player Name: Slayer (WakeServ)
+Player Action: 049 057 050 046 049 054 056 046 048 046 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 10951816), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 3
+ zx: 9 zy: 6 zz: 0
+ dx: 1 dy: 0 dz: 0
+ abs_sx: 112 abs_sy: 50 abs_sz: 7
+ abs_zx: 113 abs_zy: 50 abs_zz: 7
+ Start Cylinder (1):  (4598,0) (4451,0) (4459,0) (7804,0) (99,268441019)
+ Start Cylinder (2):  (4598,0) (4451,0) (4459,0) (7804,0) (99,268441019)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4598,0) (4447,0) (4458,0)
+ Destination Cylinder (2):  (4598,0) (4447,0) (4458,0)(-)(-)(-)(-)(-)(-)(-)
+Mon Jun 27 15:04:29 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 27/6/2016 18:10:53 - Slayer (192.168.0.6) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 104 109 104 109 104 109 104 109 104
+Last Packet: 109 113 000 050 000 007 003 112 000 050 000 007 104 247 017 000
+Player Position: [112,50,7]
+Player Name: Slayer (WakeServ)
+Player Action: 049 057 050 046 049 054 056 046 048 046 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 39787656), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 3
+ zx: 7 zy: 6 zz: 0
+ dx: -1 dy: 0 dz: 0
+ abs_sx: 112 abs_sy: 50 abs_sz: 7
+ abs_zx: 111 abs_zy: 50 abs_zz: 7
+ Start Cylinder (1):  (4598,0) (4451,0) (4459,0) (7804,0) (99,268441019)
+ Start Cylinder (2):  (4598,0) (4451,0) (4459,0) (7804,0) (99,268441019)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4601,0)
+ Destination Cylinder (2):  (4601,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Mon Jun 27 15:23:06 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 28/6/2016 1:25:47 - Dumbozord (189.35.230.4) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -5200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 100 011 010 031 100 020 010 000 000 000
+Last Packet: 010 004 022 000 016 050 000 001 011 170 170 170 170 213 213 213
+Player Position: [0,0,0]
+Player Name: Tsf Dumbozord (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 14855816), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 144) (PlayerY = 45), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 97) (OldType = 429), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = 268441092), reason:
+Objects.cpp 604: exception occurred (Number = 392), reason:
+Container.h 226: index out of range (original i: 392, i: 391, min: 1, d: 367)
+Tue Jun 28 01:23:57 2016
+Debug Assertion 8.60 Container.h 226
+
+----- 29/6/2016 0:4:31 - Arsten (189.111.20.92) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GT 520
+Last Packet Types: 109 103 109 107 102 109 102 109 102 109
+Last Packet: 109 113 000 070 000 007 001 113 000 071 000 007 103 245 017 000
+Player Position: [113,70,7]
+Player Name: Arsten (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 30572376), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 1
+ zx: 8 zy: 7 zz: 0
+ dx: 0 dy: 1 dz: 0
+ abs_sx: 113 abs_sy: 70 abs_sz: 7
+ abs_zx: 113 abs_zy: 71 abs_zz: 7
+ Start Cylinder (1):  (4598,0) (7804,0) (99,268441090)
+ Start Cylinder (2):  (4598,0) (7804,0) (99,268441090)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4654,0)
+ Destination Cylinder (2):  (4654,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Wed Jun 29 00:03:48 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 29/6/2016 2:32:12 - Arsten (189.111.20.92) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GT 520
+Last Packet Types: 142 180 107 130 030 132 132 142 180 132
+Last Packet: 107 034 000 066 000 005 001 099 000 023 022 000 016 002 180 019
+Player Position: [34,66,5]
+Player Name: Arsten (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1C37F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 11119), reason:
+MapWindow.cpp 1146: exception occurred (posx = 192) (posy = 128), reason:
+MapWindow.cpp 973: exception occurred, reason:
+MapWindow.cpp 957: exception occurred (Creature->OutfitType = 368) (Creature->CreatureID = 268441111), reason:
+Objects.cpp 494: exception occurred (Number = 368) (Flag = 24), reason:
+Container.h 226: index out of range (original i: 368, i: 367, min: 1, d: 367)
+Wed Jun 29 02:27:16 2016
+Debug Assertion 8.60 Container.h 226
+
+----- 29/6/2016 2:32:21 - Slayer (192.168.0.6) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 142 107 030 130 132 132 142 030 132 132
+Last Packet: 107 034 000 066 000 005 001 099 000 023 022 000 016 002 142 023
+Player Position: [29,69,5]
+Player Name: Slayer (WakeServ)
+Player Action: 049 057 050 046 049 054 056 046 048 046 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 867F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 0), reason:
+MapWindow.cpp 1146: exception occurred (posx = 352) (posy = 32), reason:
+MapWindow.cpp 973: exception occurred, reason:
+MapWindow.cpp 957: exception occurred (Creature->OutfitType = 368) (Creature->CreatureID = 268441111), reason:
+Objects.cpp 494: exception occurred (Number = 368) (Flag = 24), reason:
+Container.h 226: index out of range (original i: 368, i: 367, min: 1, d: 367)
+Wed Jun 29 02:27:26 2016
+Debug Assertion 8.60 Container.h 226
+
+----- 29/6/2016 2:32:41 - Maedosheep (187.37.145.215) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Core 2 DUO E7400
+Video Card: ATI Radeon HD 3400 SERI
+Last Packet Types: 131 100 108 180 030 030 130 030 030 130
+Last Packet: 180 019 012 000 047 103 111 116 111 032 097 114 115 116 101 110
+Player Position: [34,66,5]
+Player Name: Maedosheep (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1BC4C30 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 11119), reason:
+MapWindow.cpp 1146: exception occurred (posx = 192) (posy = 128), reason:
+MapWindow.cpp 973: exception occurred, reason:
+MapWindow.cpp 957: exception occurred (Creature->OutfitType = 368) (Creature->CreatureID = 268441111), reason:
+Objects.cpp 494: exception occurred (Number = 368) (Flag = 24), reason:
+Container.h 226: index out of range (original i: 368, i: 367, min: 1, d: 367)
+Wed Jun 29 02:27:35 2016
+Debug Assertion 8.60 Container.h 226
+
+----- 29/6/2016 19:0:32 - Slayer (192.168.0.6) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 103 109 103 109 103 109 103 109 103 109
+Last Packet: 109 000 000 244 000 007 001 000 000 245 000 007 103 007 255 245
+Player Position: [0,245,7]
+Player Name: Slayer (WakeServ)
+Player Action: 049 057 050 046 049 054 056 046 048 046 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2461C88 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 37660048), reason:
+ContentWindows.cpp 695: exception occurred (Surface = 1), reason:
+Map.cpp 1707: failed to get automap flags for automap block (x: 1 y: 1 Count: 0 i: 0 DebugProgress: -2), reason:
+Map.cpp 1613: exception occurred (Position = 3), reason:
+Map.cpp 1476: exception occurred (Position = 3), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 00000000)
+Wed Jun 29 19:00:15 2016
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 29/6/2016 19:0:48 - Slayer (192.168.0.6) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 104 109 104 109 104 109 104 109 104
+Last Packet: 109 112 000 050 000 007 003 111 000 050 000 007 104 246 017 000
+Player Position: [112,50,7]
+Player Name: Slayer (WakeServ)
+Player Action: 049 057 050 046 049 054 056 046 048 046 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 38870152), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 3
+ zx: 7 zy: 6 zz: 0
+ dx: -1 dy: 0 dz: 0
+ abs_sx: 112 abs_sy: 50 abs_sz: 7
+ abs_zx: 111 abs_zy: 50 abs_zz: 7
+ Start Cylinder (1):  (4597,0) (4451,0) (4459,0) (7804,0) (99,268441123)
+ Start Cylinder (2):  (4597,0) (4451,0) (4459,0) (7804,0) (99,268441123)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4597,0)
+ Destination Cylinder (2):  (4597,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Wed Jun 29 19:00:38 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 1/7/2016 15:20:17 - Didi Lindo (187.66.105.107) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Business Edition 32 Bit in BRA
+Processor: Intel Celeron B800 @ 1.
+Video Card: STANDARD 
+Last Packet Types: 109 101 109 101 109 101 109 101 109 101
+Last Packet: 109 157 000 011 000 007 001 157 000 010 000 007 101 248 017 000
+Player Position: [157,10,7]
+Player Name: Didi Lindo (WakeServ)
+Player Action: 049 055 057 046 050 049 054 046 050 053 051 046 053 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 30375768), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 1
+ zx: 8 zy: 5 zz: 0
+ dx: 0 dy: -1 dz: 0
+ abs_sx: 157 abs_sy: 10 abs_sz: 7
+ abs_zx: 157 abs_zy: 9 abs_zz: 7
+ Start Cylinder (1):  (4655,0) (7804,0) (99,268440773)
+ Start Cylinder (2):  (4655,0) (7804,0) (99,268440773)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4601,0)
+ Destination Cylinder (2):  (4601,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Fri Jul 01 15:19:40 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 2/7/2016 17:17:57 - Slayer (192.168.0.6) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 104 109 104 109 132 104 109 104 109
+Last Packet: 109 113 000 050 000 007 003 112 000 050 000 007 104 245 017 000
+Player Position: [112,50,7]
+Player Name: Slayer (WakeServ)
+Player Action: 049 057 050 046 049 054 056 046 048 046 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 39485272), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 3
+ zx: 7 zy: 6 zz: 0
+ dx: -1 dy: 0 dz: 0
+ abs_sx: 112 abs_sy: 50 abs_sz: 7
+ abs_zx: 111 abs_zy: 50 abs_zz: 7
+ Start Cylinder (1):  (4598,0) (4451,0) (4459,0) (7804,0) (99,268440716)
+ Start Cylinder (2):  (4598,0) (4451,0) (4459,0) (7804,0) (99,268440716)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4598,0)
+ Destination Cylinder (2):  (4598,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Sat Jul 02 14:32:11 2016
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 19/12/2017 22:39:34 - GM Wake (189.101.248.22) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: MICROSOFT
+Last Packet Types: 200 162 107 131 132 102 109 104 109 102
+Last Packet: 162 000 064 200 134 000 088 000 000 088 000 026 128 000 007 000
+Player Position: [129,54,7]
+Player Name: GM Wake (WakeBaiak)
+Player Action: 051 053 046 049 057 056 046 052 054 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 200) (MainWindow = 48725848), reason:
+Communication.cpp 3113: exception occurred, reason:
+Communication.cpp 3104: assertion failed (AvailableOutfits = 26), reason:
+In(AvailableOutfits,1,AVAILABLE_OUTFITS)
+Tue Dec 19 20:13:49 2017
+Debug Assertion 8.60 Communication.cpp 3104
+
+----- 19/12/2017 22:51:15 - GM Wake (189.101.248.22) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: MICROSOFT
+Last Packet Types: 200 162 107 109 109 160 180 180 131 170
+Last Packet: 162 000 064 200 046 001 088 000 000 088 000 026 128 000 007 000
+Player Position: [131,50,6]
+Player Name: GM Wake (WakeBaiak)
+Player Action: 051 053 046 049 057 056 046 052 054 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 200) (MainWindow = 77235040), reason:
+Communication.cpp 3113: exception occurred, reason:
+Communication.cpp 3104: assertion failed (AvailableOutfits = 26), reason:
+In(AvailableOutfits,1,AVAILABLE_OUTFITS)
+Tue Dec 19 20:49:12 2017
+Debug Assertion 8.60 Communication.cpp 3104
+
+----- 21/12/2017 16:47:50 - GM Wake (189.101.248.22) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: MICROSOFT
+Last Packet Types: 109 101 109 101 109 101 109 101 109 101
+Last Packet: 109 152 000 020 000 007 002 152 000 019 000 007 101 102 003 091
+Player Position: [152,19,7]
+Player Name: GM Wake (WakeBaiak)
+Player Action: 051 053 046 049 057 056 046 052 054 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 74481496), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 1
+ zx: 8 zy: 5 zz: 0
+ dx: 0 dy: -1 dz: 0
+ abs_sx: 152 abs_sy: 19 abs_sz: 7
+ abs_zx: 152 abs_zy: 18 abs_zz: 7
+ Start Cylinder (1):  (4599,0) (7804,0) (99,268444016)
+ Start Cylinder (2):  (4599,0) (7804,0) (99,268444016)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4597,0)
+ Destination Cylinder (2):  (4597,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Thu Dec 21 14:47:37 2017
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 4/3/2018 9:1:29 - GM Wake (187.120.151.129) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: MICROSOFT
+Last Packet Types: 170 180 131 132 180 131 170 180 131 180
+Last Packet: 180 022 032 000 089 111 117 114 032 113 117 101 115 116 032 108
+Player Position: [156,50,7]
+Player Name: GM Wake (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 26 MaW: 4937EF8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+SurfaceDX.cpp 1050: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000070)
+Sun Mar 04 09:01:21 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 5/3/2018 1:32:10 - GM Bogo (76.64.145.161) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 200 162 030 131 131 132 131 131 132 131
+Last Packet: 162 000 000 200 012 000 039 068 057 131 003 026 128 000 007 000
+Player Position: [138,50,7]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 200) (MainWindow = 9088832), reason:
+Communication.cpp 3113: exception occurred, reason:
+Communication.cpp 3104: assertion failed (AvailableOutfits = 26), reason:
+In(AvailableOutfits,1,AVAILABLE_OUTFITS)
+Mon Mar 05 01:31:55 2018
+Debug Assertion 8.60 Communication.cpp 3104
+
+----- 5/3/2018 1:32:36 - GM Bogo (76.64.145.161) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 200 162 030 131 131 132 131 131 132 131
+Last Packet: 162 000 000 200 132 000 039 068 057 131 003 026 128 000 007 000
+Player Position: [138,50,7]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 200) (MainWindow = 2997096), reason:
+Communication.cpp 3113: exception occurred, reason:
+Communication.cpp 3104: assertion failed (AvailableOutfits = 26), reason:
+In(AvailableOutfits,1,AVAILABLE_OUTFITS)
+Mon Mar 05 01:32:16 2018
+Debug Assertion 8.60 Communication.cpp 3104
+
+----- 9/3/2018 19:45:36 - Account Manager (45.4.238.22) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 132 131 180 160 160 134 133 131 131
+Last Packet: 180 025 035 000 085 115 105 110 103 032 116 104 101 032 108 097
+Player Position: [1093,571,9]
+Player Name: Mage Rush (Baiak Zik)
+Player Action: 049 048 055 046 049 056 057 046 053 050 046 049 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 107) (MainWindow = 39173384), reason:
+Communication.cpp 1846: exception occurred (rx = 7) (ry = 5), reason:
+Communication.cpp 1830: Object is not where it should be, reason:
+ hx: 7 hy: 5 hz: 2 Pos: 3
+ Cylinder (1):  (7348,0) (8127,0) (99,1073763866)
+ Cylinder (2):  (7348,0) (99,1073763866) (8127,0)(-)(-)(-)(-)(-)(-)(-)
+Fri Mar 09 14:47:46 2018
+Debug Assertion 8.60 Communication.cpp 1830
+
+----- 9/3/2018 21:48:42 - Account Manager (162.243.33.35) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 100 020 107 107 107 107 107 131 132 180
+Last Packet: 020 047 000 055 010 087 101 108 099 111 109 101 032 116 111 032
+Player Position: [143,60,7]
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 75 MaW: 2611D20 MoW: 0), reason:
+Control.cpp 1693: exception occurred (Type = 75), reason:
+Network.cpp 830: exception occurred, reason:
+Network.cpp 739: exception occurred (PlayerSocketPointerStatus = 1), reason:
+NWin32Exception.cpp 93: win32 exception occurred, reason:
+invalid handle
+Thu Mar 08 21:48:27 2018
+Debug Assertion 8.60 NWin32Exception.cpp 93
+
+----- 14/3/2018 7:59:35 - Gaspar (177.83.152.213) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Business Edition 64 Bit in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 131 132 131 131 132 131 131 132 131
+Last Packet: 132 143 000 056 000 007 211 008 000 084 114 097 105 110 101 114
+Player Position: [142,51,7]
+Player Name: Gaspar (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2A7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000045)
+Wed Mar 14 07:59:06 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 14/3/2018 10:15:16 - Account Manager (170.84.58.228) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-5
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 107 107 143 161 133 132 180 131 106
+Last Packet: 107 223 038 212 038 007 001 099 000 147 235 014 016 003 000 000
+Player Position: [9949,9940,7]
+Player Name: Sniper (BaiakRoxzao)
+Player Action: 050 048 048 046 049 056 054 046 049 054 053 046 049 052 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Wed Mar 14 09:58:13 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 15/3/2018 1:0:37 - Elder Targin (177.183.167.141) -----
+Comment: ta
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -3230M @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 172 172 170 180 180 180 131 170 180 131
+Last Packet: 172 005 000 006 000 081 117 101 115 116 115 000 000 000 000 000
+Player Position: [156,49,7]
+Player Name: Elder Targin (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 47E7C30 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B4A9)
+Thu Mar 15 01:00:01 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 15/3/2018 1:25:33 - Account Manager (138.255.3.95) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Celeron N2807 @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 170 131 140 131 170 180 180 131 180 131
+Last Packet: 131 150 000 052 000 007 003 140 152 195 023 016 100 131 150 000
+Player Name: Black Block Malucao (BaiakX)
+Player Action: 049 052 050 046 052 052 046 049 055 050 046 049 055 052 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1499: exception occurred (MaW: 2227C40 MoW: 0 ), reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 35216296), reason:
+ContentWindows.cpp 1290: exception occurred (Surface = 1) (Obj.Type = 0), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 968: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 998: exception occurred, reason:
+Creatures.cpp 1121: assertion failed (GetPlayerID() = 270001418), reason:
+Player != NULL
+Thu Mar 15 01:24:44 2018
+Debug Assertion 8.60 Creatures.cpp 1121
+
+----- 15/3/2018 5:29:56 - Moka (156.220.32.188) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in EGY
+Processor: Intel Celeron 430 @ 1.8
+Video Card: Intel (R) G41 E
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 38841696), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 61)
+Sun Jan 02 20:15:47 2011
+Debug Assertion 8.60 Network.cpp 398
+
+----- 15/3/2018 8:28:4 - Hit (177.183.226.217) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-4
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 131 133 133 132 180 131 106 108 140
+Last Packet: 107 147 000 050 000 008 003 099 000 055 135 001 016 003 000 000
+Player Position: [147,50,8]
+Player Name: Hit (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 508: exception occurred (nIDEvent = 1), reason:
+Control.cpp 1437: exception occurred, reason:
+GUI.cpp 1033: exception occurred (i = 0), reason:
+GUI.cpp 1093: exception occurred (elapsed = 131), reason:
+GUI.cpp 2090: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 656C6961)
+Thu Mar 15 07:33:25 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 17/3/2018 0:0:14 - GM Bogo (76.64.147.179) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 133 132 180 131 106 108 140 140 133 132
+Last Packet: 140 211 054 001 064 100 140 211 054 001 064 100 108 151 001 009
+Player Position: [406,262,7]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Fri Mar 16 23:59:56 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 23/3/2018 7:55:51 - Mufazza (186.89.101.151) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in ESP
+Processor: Dual Core Intel Pentium E5800 @ 3
+Video Card: Intel (R) G41 E
+Last Packet Types: 160 133 132 180 131 140 140 131 131 131
+Last Packet: 140 166 011 011 064 000 140 166 011 011 064 000 131 099 000 187
+Player Position: [98,1212,9]
+Player Name: Mufazza (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 508: exception occurred (nIDEvent = 1), reason:
+Control.cpp 1437: exception occurred, reason:
+GUI.cpp 1033: exception occurred (i = 0), reason:
+GUI.cpp 1093: exception occurred (elapsed = 91), reason:
+GUI.cpp 2090: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0300A032)
+Thu Mar 22 17:12:13 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 25/3/2018 16:0:31 - Mufazza (190.205.220.9) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in ESP
+Processor: Dual Core Intel Pentium E5800 @ 3
+Video Card: Intel (R) G41 E
+Last Packet Types: 162 162 160 160 133 132 180 131 140 140
+Last Packet: 160 030 025 030 025 140 094 001 000 255 255 255 127 252 001 027
+Player Position: [95,1321,7]
+Player Name: Mufazza (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1AB1EE0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 822: exception occurred, reason:
+Graphics.cpp 1368: exception occurred (Surface = 1) (FontNumber = 2), reason:
+Graphics.cpp 1356: exception occurred (Surface = 1) (FontNumber = 2), reason:
+Graphics.cpp 1481: assertion failed (Length = 49), reason:
+Length <= (int) strlen(Text)
+Sun Mar 25 14:50:25 2018
+Debug Assertion 8.60 Graphics.cpp 1481
+
+----- 1/4/2018 20:9:19 - Bartolomeu (186.235.101.14) -----
+
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Home Premium Edition 32 Bit in BRA
+Processor: Dual Core Intel Pentium E5400 @ 2
+Video Card: Intel (R) G33/G
+Last Packet Types: 107 107 107 107 131 107 107 107 107 107
+Last Packet: 107 188 007 072 006 007 001 099 000 081 013 006 016 002 107 184
+Player Position: [1980,1602,7]
+Player Name: Bartolomeu (Brasil Server)
+Player Action: 052 053 046 051 053 046 057 054 046 049 052 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Fri Mar 30 12:42:44 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 1/4/2018 21:30:2 - Mufazza (186.95.199.97) -----
+
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in ESP
+Processor: Dual Core Intel Pentium E5800 @ 3
+Video Card: Intel (R) G41 E
+Last Packet Types: 100 010 031 100 020 010 010 010 010 010
+Last Packet: 010 055 129 000 016 050 000 000 100 232 003 232 003 007 126 038
+Player Position: [1000,1000,7]
+Player Name: Mufazza (MexiOT)
+Player Action: 049 053 056 046 054 057 046 049 046 049 051 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 28843856), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 1000) (PlayerY = 1000), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 11726) (OldType = 9967), reason:
+Objects.cpp 280: exception occurred (Type = 11726) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 11726) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sun Apr 01 15:03:04 2018
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 2/4/2018 1:6:54 - Mufazza (186.95.199.97) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in ESP
+Processor: Dual Core Intel Pentium E5800 @ 3
+Video Card: Intel (R) G41 E
+Last Packet Types: 109 180 180 180 162 180 180 180 180 180
+Last Packet: 180 026 013 000 089 111 117 032 097 114 101 032 102 117 108 108
+Player Position: [147,50,8]
+Player Name: Mufazza (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 27649512), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017], reason:
+ sx: 13 sy: 11 sz: 2
+ Position: 1
+ zx: 13 zy: 12 zz: 2
+ dx: 0 dy: 1 dz: 0
+ abs_sx: 152 abs_sy: 55 abs_sz: 8
+ abs_zx: 152 abs_zy: 56 abs_zz: 8
+ Start Cylinder (1):  (353,0)
+ Start Cylinder (2):  (353,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (351,0)
+ Destination Cylinder (2):  (351,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Sun Apr 01 22:24:48 2018
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 4/4/2018 13:10:1 - Raikyu (190.175.31.93) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in ARG
+Processor: Intel Celeron B800 @ 1.
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 140 131 131 131 131 131 140 170 131
+Last Packet: 140 101 014 000 064 100 131 034 002 189 001 007 013 000 000 000
+Player Position: [542,438,7]
+Player Name: Raikyu (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 24B7F78 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0211C8EE)
+Wed Apr 04 13:09:57 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 15/4/2018 9:36:27 - GM Bogo (76.64.146.226) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 132 132 132 132 132 132 131 131 132 131
+Last Packet: 132 204 001 035 000 007 211 007 000 084 101 109 112 108 101 033
+Player Position: [451,31,8]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Sun Apr 15 09:36:14 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 19/4/2018 0:30:34 - Juiz (179.221.54.216) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -3770 @ 3
+Video Card: NVIDIA GeForce GT 710
+Last Packet Types: 140 140 140 140 140 140 140 140 140 140
+Last Packet: 140 190 021 000 064 100 140 230 021 000 064 100 140 191 021 000
+Player Position: [95,1321,7]
+Player Name: Juiz (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 37F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Thu Apr 19 00:28:45 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 23/4/2018 9:24:55 - Nikiita (201.6.128.107) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Business Edition 64 Bit in BRA
+Processor: Dual Core Intel Pentium E5500 @ 2
+Video Card: Intel (R) G41 E
+Last Packet Types: 131 131 132 131 131 132 131 131 132 131
+Last Packet: 132 143 000 056 000 007 211 008 000 084 114 097 105 110 101 114
+Player Position: [149,53,7]
+Player Name: Nikiita (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 057 046 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2827F60 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Mon Apr 23 09:24:29 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 10/7/2018 11:30:54 - GM Bogo (201.68.43.205) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GT 520
+Last Packet Types: 109 030 102 109 102 109 102 109 102 109
+Last Packet: 109 007 008 216 006 007 001 008 008 216 006 007 102 111 255 000
+Player Position: [2055,1752,7]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 41254744), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (7804, 0), reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 1
+ zx: 9 zy: 6 zz: 0
+ dx: 1 dy: 0 dz: 0
+ abs_sx: 2055 abs_sy: 1752 abs_sz: 7
+ abs_zx: 2056 abs_zy: 1752 abs_zz: 7
+ Start Cylinder (1):  (4598,0) (7804,0) (99,268446296)
+ Start Cylinder (2):  (4598,0) (7804,0) (99,268446296)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4601,0)
+ Destination Cylinder (2):  (4601,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Tue Jul 10 12:30:40 2018
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 14/7/2018 0:7:28 - Laura (179.105.123.11) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -3537U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 107 109 109 109 180 133 131 132 180
+Last Packet: 109 151 008 141 002 007 001 152 008 141 002 007 107 152 008 141
+Player Position: [2199,654,7]
+Player Name: Laura (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 2129752), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017], reason:
+ sx: 10 sy: 7 sz: 0
+ Position: 1
+ zx: 9 zy: 7 zz: 0
+ dx: -1 dy: 0 dz: 0
+ abs_sx: 2201 abs_sy: 655 abs_sz: 7
+ abs_zx: 2200 abs_zy: 655 abs_zz: 7
+ Start Cylinder (1):  (416,0)
+ Start Cylinder (2):  (416,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (416,0)
+ Destination Cylinder (2):  (416,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Sat Jul 14 00:07:07 2018
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 15/7/2018 1:2:51 - Nerius (138.0.207.110) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-6
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 131 180 180 131 180 180 131 180 180
+Last Packet: 162 210 000 180 025 015 000 089 111 117 032 115 101 101 032 100
+Player Position: [1527,1970,10]
+Player Name: Nerius (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 76513112), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (2123, 0), reason:
+ sx: 10 sy: 6 sz: 3
+ Position: 3
+ zx: 10 zy: 7 zz: 3
+ dx: 0 dy: 1 dz: 0
+ abs_sx: 1530 abs_sy: 1971 abs_sz: 9
+ abs_zx: 1530 abs_zy: 1972 abs_zz: 9
+ Start Cylinder (1):  (7062,0) (6475,0) (2890,5) (1856,0) (2123,0)
+ Start Cylinder (2):  (7062,0) (6475,0) (2890,5) (2123,0) (1856,0)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (410,0) (7079,0) (6486,0) (2890,5) (2123,0)
+ Destination Cylinder (2):  (410,0) (7079,0) (6486,0) (2890,5) (2123,0)(-)(-)(-)(-)(-)
+Sun Jul 15 01:02:20 2018
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 15/7/2018 12:51:9 - Derik Do Relo (201.20.194.58) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows XP Professional in BRA
+Processor: Dual Core Intel Pentium E5200 @ 2
+Video Card: Intel (R) G33/G
+Last Packet Types: 031 131 131 132 131 131 132 131 131 132
+Last Packet: 031 190 152 000 000 008 000 000 000 000 000 000 000 000 000 000
+Player Position: [640,426,7]
+Player Name: Derik Do Relo (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+NWin32Exception.cpp 93: win32 exception occurred, reason:
+invalid handle
+Sun Jul 15 12:51:20 2018
+Debug Assertion 8.60 NWin32Exception.cpp 93
+
+----- 15/7/2018 18:27:22 - Vulcano (45.230.219.3) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows XP Professional in ESP
+Processor: Intel Core 2 DUO E7500
+Video Card: Intel (R) Q45/Q
+Last Packet Types: 180 131 180 131 180 131 180 131 180 163
+Last Packet: 131 187 008 042 003 008 015 131 187 008 042 003 008 015 160 017
+Player Position: [2235,810,8]
+Player Name: Vulcano (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Sun Jul 15 23:26:38 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 15/7/2018 18:56:23 - Vulcano (45.230.219.3) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows XP Professional in ESP
+Processor: Intel Core 2 DUO E7500
+Video Card: Intel (R) Q45/Q
+Last Packet Types: 131 180 131 180 131 180 131 180 131 180
+Last Packet: 180 026 018 000 089 111 117 032 097 114 101 032 101 120 104 097
+Player Position: [1810,1656,10]
+Player Name: Vulcano (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Sun Jul 15 23:46:37 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 15/7/2018 19:3:34 - Vulcano (45.230.219.3) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows XP Professional in ESP
+Processor: Intel Core 2 DUO E7500
+Video Card: Intel (R) Q45/Q
+Last Packet Types: 101 109 106 131 180 131 180 131 180 131
+Last Packet: 106 115 009 232 002 010 002 098 000 153 038 000 064 100 003 067
+Player Position: [2412,747,8]
+Player Name: Vulcano (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Mon Jul 16 00:03:08 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 15/7/2018 22:44:35 - Pannico (177.72.139.17) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Business Edition 32 Bit in BRA
+Processor: Intel Pentium P6200 @ 2
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 107 107 107 107 170 131 132 131 106
+Last Packet: 107 095 000 048 005 007 003 099 000 014 130 000 016 000 107 095
+Player Position: [103,1328,7]
+Player Name: Pannico (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Sun Jul 15 21:13:31 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 17/7/2018 23:59:6 - Bloker Hard (168.196.52.148) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Celeron N2940 @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 180 131 109 180 180 180 107 107 131 109
+Last Packet: 180 025 035 000 085 115 105 110 103 032 116 104 101 032 108 097
+Player Position: [1980,1949,7]
+Player Name: Guaravita (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 827: exception occurred (nChar = 114) (nFlags = 61), reason:
+Control.cpp 1119: exception occurred (Key = 258), reason:
+MainWindow.cpp 214: exception occurred (Key = 258), reason:
+ConsoleWindow.cpp 1888: exception occurred (Key = 258), reason:
+ConsoleWindow.cpp 1862: exception occurred (ObjectType = 11862) (ObjectData = 0), reason:
+Objects.cpp 280: exception occurred (Type = 11862) (Flag = 7), reason:
+Objects.cpp 277: assertion failed (Type = 11862) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Tue Jul 17 23:53:51 2018
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 26/7/2018 17:17:53 - GM Bogo (190.201.228.74) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Ultimate Edition 32 Bit in ESP
+Processor: Intel Atom N455 @ 1.
+Video Card: TARJETA G
+Last Packet Types: 125 000 000 000 000 000 000 000 000 000
+Last Packet: 125 001 198 129 042 197 000 000 000 000 000 000 000 000 000 000
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 125) (MainWindow = 31608224), reason:
+Control.cpp 1239: unknown packet type during login (Type = 125)
+Tue Jul 31 15:37:21 2018
+Debug Assertion 8.60 Control.cpp 1239
+
+----- 26/7/2018 17:23:23 - Kiko (190.201.228.74) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Ultimate Edition 32 Bit in ESP
+Processor: Intel Atom N455 @ 1.
+Video Card: TARJETA G
+Last Packet Types: 230 030 132 131 131 132 131 131 132 131
+Last Packet: 230 118 253 056 009 170 211 006 000 081 117 101 115 116 115 131
+Player Position: [154,52,7]
+Player Name: GM Bogo (355)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 230) (MainWindow = 30821792), reason:
+Control.cpp 1239: unknown packet type during login (Type = 230)
+Tue Jul 31 15:49:15 2018
+Debug Assertion 8.60 Control.cpp 1239
+
+----- 26/7/2018 19:57:36 - Account Manager (181.57.250.22) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 64 Bit in COL
+Processor: Intel Celeron E3400 @ 2
+Video Card: Intel (R) G41 E
+Last Packet Types: 109 106 107 109 160 109 107 131 131 131
+Last Packet: 109 060 001 044 005 007 001 060 001 043 005 007 000 000 000 000
+Player Position: [313,1317,7]
+Player Name: Sonytom (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 27BC78 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0000004D)
+Thu Jul 26 17:57:18 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 27/7/2018 16:6:36 - Kiko (186.92.120.187) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Ultimate Edition 32 Bit in ESP
+Processor: Intel Atom N455 @ 1.
+Video Card: TARJETA G
+Last Packet Types: 059 000 000 000 000 000 000 000 000 000
+Last Packet: 059 061 178 064 084 077 000 000 000 000 000 000 000 000 000 000
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 59) (MainWindow = 34701184), reason:
+Control.cpp 1239: unknown packet type during login (Type = 59)
+Wed Aug 01 14:14:47 2018
+Debug Assertion 8.60 Control.cpp 1239
+
+----- 28/7/2018 6:28:55 - Account Manager (201.42.44.25) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Pentium N3540 @ 2
+Video Card: Intel (R) HD GR
+Last Packet Types: 031 100 020 132 132 132 132 132 132 131
+Last Packet: 031 070 220 000 000 004 000 000 000 000 000 000 000 000 000 000
+Player Position: [1027,1023,7]
+Player Name: Kinazinha Da Mort (Epic Glorius)
+Player Action: 050 048 048 046 049 051 056 046 056 053 046 049 056 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 42172248), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Sat Jul 28 06:27:25 2018
+Debug Assertion 8.60 Network.cpp 398
+
+----- 28/7/2018 14:56:30 - Sir Psaico (179.159.105.46) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel GENUINE T
+Video Card: Mobile Intel (R) 45 EX
+Last Packet Types: 131 140 131 140 131 131 131 140 170 131
+Last Packet: 140 072 011 000 064 100 131 036 002 182 001 007 013 000 000 000
+Player Position: [541,439,7]
+Player Name: Sir Psaico (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 887F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4E9EB4B1)
+Sat Jul 28 14:55:00 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 29/7/2018 12:26:47 - Bode Fuceta (164.163.196.47) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i7 -3630QM @
+Video Card: Intel (R) HD GR
+Last Packet Types: 162 160 101 109 101 109 131 180 030 160
+Last Packet: 160 131 019 131 019 060 052 013 000 055 131 189 034 073 001 001
+Player Position: [2141,659,8]
+Player Name: Bode Fuceta (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 368: unknown exception occurred
+Sun Jul 29 12:13:32 2018
+Debug Assertion 8.60 Player.cpp 368
+
+----- 31/7/2018 10:13:29 - Kalashnikov (177.228.129.23) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in MEX
+Processor: Intel Core i5 -4200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 132 131 131 132 131 131 132 131 131 132
+Last Packet: 132 158 000 046 000 007 211 006 000 081 117 101 115 116 115 131
+Player Position: [158,49,7]
+Player Name: Kalashnikov (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 284B970 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B4A9)
+Tue Jul 31 07:13:08 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 19/8/2018 19:3:26 - Sir Lol (191.205.132.181) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3-4
+Video Card: NVIDIA GeForce 210
+Last Packet Types: 131 131 132 131 132 030 131 131 132 131
+Last Packet: 132 157 000 050 000 007 181 000 000 131 157 000 050 000 007 057
+Player Position: [153,56,7]
+Player Name: Sir Lol (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 235BC78 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0277FF10)
+Sun Aug 19 19:03:05 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 20/8/2018 16:47:13 - Plits (131.108.106.244) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Celeron 847 @ 1.1
+Video Card: Intel (R) HD GR
+Last Packet Types: 030 030 107 107 107 030 160 107 030 107
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [247,1077,8]
+Player Name: Plits (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: A77F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Mon Aug 20 16:39:31 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 23/8/2018 14:55:28 - Artorias (201.86.249.4) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in BRA
+Processor: AMD A4-3300M 
+Video Card: ATI Radeon HD AMD 6480G
+Last Packet Types: 030 131 131 132 131 131 132 131 131 132
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [155,51,7]
+Player Name: Artorias (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2687F20 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Thu Aug 23 14:55:02 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 14/9/2018 17:42:50 - One Hit (179.176.1.230) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 170 030 109 131 131 132 131 132 131 131
+Last Packet: 030 170 089 001 000 000 007 000 068 114 117 110 107 101 114 133
+Player Position: [151,56,7]
+Player Name: One Hit (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2837FB0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00007C60)
+Fri Sep 14 17:42:22 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 14/9/2018 19:3:25 - Queensland (187.95.244.148) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows XP Professional in BRA
+Processor: Intel CORE I3-3
+Video Card: NVIDIA GeForce GT 620
+Last Packet Types: 109 109 109 131 140 101 109 131 131 109
+Last Packet: 109 203 000 142 004 008 001 204 000 142 004 008 000 000 000 000
+Player Position: [203,1168,10]
+Player Name: Queensland (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 30F2810 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Fri Sep 14 19:03:07 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 14/9/2018 20:8:19 - Dazherz (189.140.103.169) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in MEX
+Processor: Intel Pentium DUAL E218
+Video Card: NVIDIA GeForce 8400GS
+Last Packet Types: 131 131 140 160 140 132 140 140 131 131
+Last Packet: 131 078 003 208 000 007 003 000 000 000 000 000 000 000 000 000
+Player Position: [854,209,7]
+Player Name: Dazherz (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2B7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 027F8010)
+Fri Sep 14 18:07:49 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 14/9/2018 20:13:34 - Rhazeek (189.140.103.169) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in MEX
+Processor: Intel Pentium DUAL E218
+Video Card: NVIDIA GeForce 8400GS
+Last Packet Types: 131 132 161 180 132 180 131 106 108 140
+Last Packet: 140 118 010 000 064 100 140 094 010 000 064 100 140 093 010 000
+Player Position: [854,213,7]
+Player Name: Rhazeek (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2617F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 02738010)
+Fri Sep 14 18:13:03 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 14/9/2018 20:39:56 - Account Manager (177.35.96.240) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Dual Core Intel Pentium E5400 @ 2
+Video Card: NVIDIA GeForce 9400 GT
+Last Packet Types: 150 030 170 131 132 131 132 131 132 131
+Last Packet: 150 001 000 000 000 099 025 001 171 002 171 002 082 097 110 107
+Player Position: [153,55,7]
+Player Name: Killer Of Noobs (DemoniacOT)
+Player Action: 053 052 046 051 057 046 054 055 046 049 051 052 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 150) (MainWindow = 9748760), reason:
+Communication.cpp 2619: exception occurred, reason:
+Network.cpp 504: exception occurred, reason:
+Utils.cpp 550: assertion failed (Position = 19) (Size-Length = -43034), reason:
+Position<=Size-Length
+Fri Sep 14 20:37:16 2018
+Debug Assertion 8.60 Utils.cpp 550
+
+----- 15/9/2018 12:7:40 - Account Manager (191.54.1.35) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 450 @ 2.2
+Video Card: NVIDIA GeForce 9500 GT
+Last Packet Types: 109 107 107 107 107 107 107 107 107 107
+Last Packet: 109 034 002 178 001 007 002 034 002 177 001 007 131 039 002 183
+Player Position: [542,439,6]
+Player Name: Paladizinha (Nightmare Server )
+Player Action: 049 053 056 046 054 057 046 049 050 046 049 049 052 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 28618016), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017], reason:
+ sx: 13 sy: 2 sz: 0
+ Position: 2
+ zx: 13 zy: 1 zz: 0
+ dx: 0 dy: -1 dz: 0
+ abs_sx: 546 abs_sy: 434 abs_sz: 7
+ abs_zx: 546 abs_zy: 433 abs_zz: 7
+ Start Cylinder (1):  (4566,0) (4507,0)
+ Start Cylinder (2):  (4566,0) (4507,0)(-)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4559,0) (4511,0)
+ Destination Cylinder (2):  (4559,0) (4511,0)(-)(-)(-)(-)(-)(-)(-)(-)
+Sat Sep 15 11:38:02 2018
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 15/9/2018 19:8:9 - Arkaykos (170.239.213.250) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -6500U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 140 140 140 140 140 133 131 132 131 106
+Last Packet: 140 096 026 000 064 100 140 092 026 000 064 100 140 092 026 000
+Player Position: [155,44,8]
+Player Name: Arkaykos (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 28F7F88 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Sat Sep 15 19:06:44 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 15/9/2018 21:23:51 - Lerooy (187.14.48.219) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 64 Bit in BRA
+Processor: Intel Pentium G2030 @ 3
+Video Card: ATI Radeon HD AMD 6450
+Last Packet Types: 140 140 140 140 140 140 107 107 107 107
+Last Packet: 107 078 003 212 000 007 002 099 000 021 002 000 016 000 107 078
+Player Position: [840,214,7]
+Player Name: Lerooy (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2917F18 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Sat Sep 15 21:23:11 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 16/9/2018 23:2:57 - Queensland (187.95.244.148) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows XP Professional in BRA
+Processor: Intel CORE I3-3
+Video Card: NVIDIA GeForce GT 620
+Last Packet Types: 100 010 031 100 020 000 000 000 000 000
+Last Packet: 010 002 000 000 016 050 000 000 100 125 001 200 004 007 154 001
+Player Name: Queensland (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 50931728), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 381) (PlayerY = 1224), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 65280) (OldType = 97), reason:
+Map.cpp 1653: exception occurred (rx: 6 ry: 8 x: 379 y: 1226 z: 7), reason:
+Map.cpp 1641: exception occurred, reason:
+Map.cpp 1368: exception occurred (rx = 6) (ry = 8), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 000000A0)
+Sun Sep 16 23:02:24 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 18/9/2018 18:36:13 - Filha Do Jair (70.81.48.139) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 030 030 030 030 030 030 030 030 030 030
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [2199,1000,10]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2EB138 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Tue Sep 18 18:34:12 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 20/9/2018 15:29:46 - Account Manager (187.84.206.238) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Basic Edition 32 Bit in BRA
+Processor: AMD MODEL UNK
+Video Card: NVIDIA GeForce 6150SE NF
+Last Packet Types: 108 133 132 131 106 108 140 140 131 131
+Last Packet: 133 153 000 042 000 008 154 000 042 000 008 032 140 109 066 000
+Player Position: [157,43,8]
+Player Name: Bebel (24Hrs)
+Player Action: 049 057 056 046 050 055 046 049 050 051 046 049 049 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 108) (MainWindow = 24948000), reason:
+Communication.cpp 1902: exception occurred (rx = 2) (ry = 0), reason:
+Communication.cpp 1892: Object is not where it should be, reason:
+ hx: 2 hy: 0 hz: 2 Pos: 1
+ Cylinder (1):  (409,0)
+ Cylinder (2):  (409,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Wed Sep 19 09:58:52 2018
+Debug Assertion 8.60 Communication.cpp 1892
+
+----- 20/9/2018 20:31:43 - Rafael (179.215.56.152) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3 5
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 131 131 132 131 131 132 131 131 132
+Last Packet: 109 156 000 049 000 007 002 156 000 048 000 007 000 000 000 000
+Player Position: [159,50,7]
+Player Name: Rafael (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 38698840), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (100, 0), reason:
+ sx: 5 sy: 5 sz: 0
+ Position: 2
+ zx: 5 zy: 4 zz: 0
+ dx: 0 dy: -1 dz: 0
+ abs_sx: 156 abs_sy: 49 abs_sz: 7
+ abs_zx: 156 abs_zy: 48 abs_zz: 7
+ Start Cylinder (1):  (11038,0) (11027,0) (100,0) (99,268891848)
+ Start Cylinder (2):  (11038,0) (11027,0) (100,0) (99,268891848)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (499,0) (9940,0)
+ Destination Cylinder (2):  (499,0) (9940,0)(-)(-)(-)(-)(-)(-)(-)(-)
+Thu Sep 20 20:31:23 2018
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 20/9/2018 20:31:47 - Shyva (191.183.100.46) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Business Edition 64 Bit in BRA
+Processor: Intel Core 2 QUAD Q830
+Video Card: Intel (R) G33/G
+Last Packet Types: 109 131 131 132 131 131 132 131 131 132
+Last Packet: 109 156 000 049 000 007 002 156 000 048 000 007 000 000 000 000
+Player Position: [159,46,7]
+Player Name: Shyva (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 40180952), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (100, 0), reason:
+ sx: 5 sy: 9 sz: 0
+ Position: 2
+ zx: 5 zy: 8 zz: 0
+ dx: 0 dy: -1 dz: 0
+ abs_sx: 156 abs_sy: 49 abs_sz: 7
+ abs_zx: 156 abs_zy: 48 abs_zz: 7
+ Start Cylinder (1):  (11038,0) (11027,0) (100,0) (99,268891848)
+ Start Cylinder (2):  (11038,0) (11027,0) (100,0) (99,268891848)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (499,0) (9940,0)
+ Destination Cylinder (2):  (499,0) (9940,0)(-)(-)(-)(-)(-)(-)(-)(-)
+Thu Sep 20 20:31:24 2018
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 21/9/2018 5:47:16 - Queensland (187.95.254.207) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows XP Professional in BRA
+Processor: Intel CORE I3-3
+Video Card: NVIDIA GeForce GT 620
+Last Packet Types: 107 131 132 180 160 160 030 107 030 107
+Last Packet: 107 114 007 029 005 007 002 134 023 000 000 000 000 000 000 000
+Player Position: [1902,1308,7]
+Player Name: Queensland (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 3182810 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA4B4B1)
+Fri Sep 21 05:47:07 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 21/9/2018 17:2:36 - Rxvxl (191.54.179.172) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in PRT
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 131 132 131 131 132 131 131 132 131
+Player Position: [156,51,7]
+Player Name: Rxvxl (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 24E7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00170244)
+Fri Sep 21 17:02:01 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 22/9/2018 19:19:36 - Account Manager (187.95.253.244) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows XP Professional in BRA
+Processor: Intel CORE I3-3
+Video Card: NVIDIA GeForce GT 620
+Last Packet Types: 109 132 131 109 107 109 109 109 109 107
+Last Packet: 109 115 000 050 000 006 001 115 000 049 000 006 000 000 000 000
+Player Position: [120,49,6]
+Player Name: Queensland (Baiak-best)
+Player Action: 049 057 050 046 057 057 046 049 051 053 046 051 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 3043218 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0B4E73F0)
+Sat Sep 22 19:19:19 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 24/9/2018 1:55:41 - Meu Macho (177.47.33.245) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Celeron N3350 @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 106 131 131 108 131 140 107 104 109 109
+Last Packet: 106 193 000 087 000 006 009 097 000 000 000 000 000 191 212 016
+Player Position: [183,83,7]
+Player Name: Meu Macho (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 106) (MainWindow = 40862600), reason:
+Communication.cpp 1784: exception occurred (rx = 17) (ry = 9), reason:
+Map.cpp 488: assertion failed (Position = 9), reason:
+Position<=Point.getObjectCount()
+Mon Sep 24 01:55:21 2018
+Debug Assertion 8.60 Map.cpp 488
+
+----- 24/9/2018 1:56:13 - Meu Macho (177.47.33.245) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Celeron N3350 @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 103 109 109 104 109 109 104 109 104 109
+Last Packet: 109 158 000 072 000 007 002 158 000 073 000 007 103 208 001 151
+Player Position: [158,73,7]
+Player Name: Meu Macho (WakeBaiak)
+Player Action: 049 053 056 046 054 057 046 049 057 054 046 050 052 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 28F8388 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Mon Sep 24 01:55:52 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 29/9/2018 19:29:1 - Account Manager (177.101.118.248) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD E-350
+Video Card: ATI Radeon HD AMD 6310 
+Last Packet Types: 030 131 162 162 100 108 131 101 109 104
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [4771,158,6]
+Player Name: Mostrengo (IDM Baiak)
+Player Action: 049 054 055 046 049 049 052 046 049 048 056 046 049 055 052 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 26A7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 027B7FF0)
+Sat Sep 29 19:22:55 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 29/11/2018 3:55:12 - GM Wake (177.138.184.59) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 132 030 104 109 162 146 104 109 104
+Last Packet: 132 196 000 046 000 007 181 005 000 091 086 073 080 093 131 196
+Player Position: [196,46,7]
+Player Name: GM Wake (WakeBaiak)
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Thu Nov 29 03:54:56 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 30/11/2018 15:26:28 - Elelely (186.10.11.98) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in CHL
+Processor: Intel Celeron 3955U @ 2
+Video Card: Intel (R) HD GR
+Last Packet Types: 102 109 030 102 109 131 131 132 131 131
+Last Packet: 109 149 000 050 000 007 003 150 000 050 000 007 102 243 001 086
+Player Position: [150,50,7]
+Player Name: Elelely (WakeBaiak)
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: BF8220 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Fri Nov 30 14:26:10 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 30/11/2018 21:29:50 - Zona Leste (177.79.103.179) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Business Edition 32 Bit in BRA
+Processor: Intel Celeron 440 @ 2.0
+Video Card: Intel (R) 82945
+Last Packet Types: 131 131 132 131 131 132 131 131 132 131
+Last Packet: 132 158 000 046 000 007 211 006 000 081 117 101 115 116 115 131
+Player Position: [152,50,7]
+Player Name: Zona Leste (WakeBaiak)
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1BB7F40 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4E9EB4B1)
+Fri Nov 30 21:29:04 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 1/12/2018 0:39:54 - Nao Vou Sofrer (179.176.8.47) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Dual Core Intel Pentium T4400 @ 2
+Video Card: Mobile Intel (R) 4 SER
+Last Packet Types: 160 107 109 131 132 180 160 160 134 109
+Last Packet: 107 048 001 168 000 007 002 099 000 100 085 000 064 001 160 023
+Player Position: [307,169,7]
+Player Name: Nao Vou Sofrer (WakeBaiak)
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 40 MaW: 25AAE00 MoW: 0), reason:
+Control.cpp 1693: exception occurred (Type = 40), reason:
+Dialogs.cpp 652: exception occurred, reason:
+Dialogs.cpp 4306: exception occurred, reason:
+Dialogs.cpp 4368: exception occurred (Number = 2), reason:
+Objects.cpp 280: exception occurred (Type = 11704) (Flag = 7), reason:
+Objects.cpp 277: assertion failed (Type = 11704) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Thu Nov 29 23:38:57 2018
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 1/12/2018 19:57:56 - Vanity (170.79.101.66) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in MEX
+Processor: Intel Celeron 3955U @ 2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 131 131 132 131 131 132 131 131 132
+Last Packet: 109 155 000 052 000 007 003 155 000 053 000 007 000 000 000 000
+Player Position: [155,51,7]
+Player Name: Vanity (WakeBaiak)
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2278110 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B4A9)
+Sat Dec 01 18:57:20 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 2/12/2018 19:52:46 - Elitarny Knight (186.167.250.168) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Ultimate Edition 32 Bit in ESP
+Processor: Intel Pentium 4 3.00GHZ
+Video Card: TARJETA G
+Last Packet Types: 100 010 031 100 020 010 010 010 010 010
+Last Packet: 010 175 243 000 016 050 000 000 100 227 003 101 003 005 163 017
+Player Name: Elite Mage (Offline)
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 053 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 24030352), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 995) (PlayerY = 869), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 97) (OldType = 410), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = 268494539), reason:
+Objects.cpp 604: exception occurred (Number = 1007), reason:
+Container.h 226: index out of range (original i: 1007, i: 1006, min: 1, d: 367)
+Sun Dec 02 17:43:39 2018
+Debug Assertion 8.60 Container.h 226
+
+----- 3/12/2018 16:35:7 - Ksharck Doll (177.86.157.79) -----
+Comment: 
+Mon Dec 03 15:18:40 2018
+Graphic Engine: DirectX9 (2)
+ 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Debug Assertion 8.60 Netw
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 
+
+----- 3/12/2018 16:47:19 - Triping Song (177.86.157.79) -----
+Comment: 
+Mon Dec 03 15:18:40 2018
+Graphic Engine: DirectX9 (2)
+ 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Debug Assertion 8.60 Netw
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 
+
+----- 4/12/2018 6:49:17 - Tchuco (179.209.192.106) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4210U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 163 180 163 180 163 180 163 180 163 180
+Last Packet: 180 026 063 000 089 111 117 032 109 097 121 032 110 111 116 032
+Player Position: [313,1176,10]
+Player Name: Tchuco (WakeBaiak)
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Tue Dec 04 07:48:53 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 5/12/2018 17:46:14 - Account Manager (190.39.144.80) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows XP Professional in ESP
+Processor: Intel Pentium 4 3.00GHZ
+Video Card: Intel (R) G33/G
+Last Packet Types: 142 171 030 171 180 030 030 030 162 162
+Last Packet: 142 225 038 001 016 203 020 078 069 058 019 000 000 000 000 000
+Player Position: [586,676,7]
+Player Name: Leo Druid (Taros Online)
+Player Action: 049 052 050 046 052 052 046 050 049 049 046 050 051 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 8DE97A8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 4602), reason:
+MapWindow.cpp 1146: exception occurred (posx = 192) (posy = 128), reason:
+MapWindow.cpp 973: exception occurred, reason:
+MapWindow.cpp 957: exception occurred (Creature->OutfitType = 5323) (Creature->CreatureID = 268510945), reason:
+Objects.cpp 494: exception occurred (Number = 5323) (Flag = 24), reason:
+Container.h 226: index out of range (original i: 5323, i: 5322, min: 1, d: 367)
+Wed Dec 05 15:07:41 2018
+Debug Assertion 8.60 Container.h 226
+
+----- 6/12/2018 9:28:11 - Account Manager (170.254.113.128) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Dual Core Intel Pentium T4200 @ 2
+Video Card: Mobile Intel (R) 45 EX
+Last Packet Types: 132 132 132 132 132 131 132 131 131 132
+Last Packet: 109 154 000 054 000 008 001 155 000 054 000 008 131 157 000 055
+Player Position: [160,55,8]
+Player Name: Mister-jack (WakeBaiak)
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 28FBC78 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 0), reason:
+MapWindow.cpp 1146: exception occurred (posx = 256) (posy = 64), reason:
+MapWindow.cpp 913: exception occurred (Obj = 727), reason:
+MapWindow.cpp 1233: exception occurred (Debug: 11 Type: 727 Coord: 159/50/10 PX: 4 PY: 1 PZ: 1 Ph: 3 DX: 0 DY: 0 W: 1 H: 1 L: 1 X: 1 Y: 1 L: 1 S: 5868), reason:
+MapWindow.cpp 1341: exception occurred (SpriteNumber = 5868), reason:
+surfaceDX9.cpp 1437: exception occurred, reason:
+surfaceDX9.cpp 1371: exception occurred, reason:
+surfaceDX9.cpp 1421: exception occurred, reason:
+surfaceDX9.cpp 426: exception occurred, reason:
+surfaceDX9.cpp 404: exception occurred (DebugProgress = 4) ((int) pBuffer = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 6577EB7F)
+Thu Dec 06 05:44:56 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 6/12/2018 22:3:27 - Fanta (201.92.187.46) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4570T @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 140 140 140 140 140 140 140 140 140 140
+Last Packet: 140 171 030 000 064 100 140 181 030 000 064 100 140 169 030 000
+Player Position: [468,37,9]
+Player Name: Fanta (WakeBaiak)
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Thu Dec 06 21:37:05 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 10/12/2018 20:32:58 - GM Bogo (76.64.145.52) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 200 162 109 131 131 132 131 131 132 131
+Last Packet: 162 000 064 200 128 000 003 116 076 094 003 026 128 000 007 000
+Player Position: [147,53,7]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 200) (MainWindow = 36420544), reason:
+Communication.cpp 3113: exception occurred, reason:
+Communication.cpp 3104: assertion failed (AvailableOutfits = 26), reason:
+In(AvailableOutfits,1,AVAILABLE_OUTFITS)
+Mon Dec 10 20:30:02 2018
+Debug Assertion 8.60 Communication.cpp 3104
+
+----- 10/12/2018 20:39:20 - Tsf Sheep (76.64.145.52) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 200 162 109 172 172 172 170 180 180 180
+Last Packet: 162 000 064 200 128 000 003 116 076 094 003 026 128 000 007 000
+Player Position: [147,53,7]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 200) (MainWindow = 37731264), reason:
+Communication.cpp 3113: exception occurred, reason:
+Communication.cpp 3104: assertion failed (AvailableOutfits = 26), reason:
+In(AvailableOutfits,1,AVAILABLE_OUTFITS)
+Mon Dec 10 20:39:07 2018
+Debug Assertion 8.60 Communication.cpp 3104
+
+----- 17/12/2018 9:34:9 - GM Bogo (76.64.146.66) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 200 162 030 131 131 132 131 131 132 131
+Last Packet: 162 000 064 200 138 000 003 116 076 094 003 026 136 000 007 000
+Player Position: [158,49,7]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 054 055 046 049 049 052 046 049 053 053 046 049 054 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 200) (MainWindow = 3518888), reason:
+Communication.cpp 3113: exception occurred, reason:
+Communication.cpp 3104: assertion failed (AvailableOutfits = 26), reason:
+In(AvailableOutfits,1,AVAILABLE_OUTFITS)
+Sun Dec 16 22:15:41 2018
+Debug Assertion 8.60 Communication.cpp 3104
+
+----- 20/12/2018 3:37:24 - GM Bogo (76.64.146.66) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 132 132 132 132 132 132 132 132 132 132
+Last Packet: 132 054 003 128 002 007 129 005 000 048 048 058 048 051 132 054
+Player Position: [814,640,7]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 056 046 050 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Thu Dec 20 03:36:47 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 22/12/2018 13:54:37 - GM Wake (76.64.146.66) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 100 011 010 031 100 020 000 000 000 000
+Last Packet: 010 001 000 000 016 050 000 001 011 170 170 170 170 213 213 213
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 056 046 050 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 3390400), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 537) (PlayerY = 79), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 1) (OldType = 3206), reason:
+Objects.cpp 280: exception occurred (Type = 1) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 1) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sat Dec 22 13:49:38 2018
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 22/12/2018 13:55:30 - GM Wake (76.64.146.66) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 100 108 180 131 131 132 131 131 132 131
+Last Packet: 180 019 013 000 047 103 111 116 111 032 103 109 032 098 111 103
+Player Position: [152,50,7]
+Player Name: GM Wake (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 056 046 050 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 35632552), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 537) (PlayerY = 79), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 1) (OldType = 3206), reason:
+Objects.cpp 280: exception occurred (Type = 1) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 1) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sat Dec 22 13:54:36 2018
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 22/12/2018 13:57:28 - GM Wake (76.64.146.66) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 100 108 180 109 131 131 132 131 131 132
+Last Packet: 180 019 014 000 047 103 111 116 111 032 053 051 053 044 055 057
+Player Position: [152,50,7]
+Player Name: GM Wake (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 056 046 050 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 36027328), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 535) (PlayerY = 79), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 1) (OldType = 3206), reason:
+Objects.cpp 280: exception occurred (Type = 1) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 1) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sat Dec 22 13:55:32 2018
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 22/12/2018 14:1:41 - GM Wake (76.64.146.66) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 100 108 101 109 180 162 101 109 140 140
+Last Packet: 109 145 000 038 000 008 004 145 000 037 000 008 101 160 001 198
+Player Position: [145,37,8]
+Player Name: Fresno (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 056 046 050 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 3783616), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 537) (PlayerY = 79), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 1) (OldType = 3206), reason:
+Objects.cpp 280: exception occurred (Type = 1) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 1) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sat Dec 22 13:57:49 2018
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 22/12/2018 14:2:44 - GM Wake (76.64.146.66) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 100 108 180 131 131 132 131 131 132 131
+Last Packet: 180 019 014 000 047 103 111 116 111 032 053 050 053 044 056 050
+Player Position: [525,82,7]
+Player Name: GM Wake (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 056 046 050 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 37402024), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 525) (PlayerY = 82), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 1) (OldType = 3206), reason:
+Objects.cpp 280: exception occurred (Type = 1) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 1) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sat Dec 22 14:01:52 2018
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 22/12/2018 14:10:37 - GM Wake (76.64.146.66) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 104 109 104 109 104 109 104 109 104 109
+Last Packet: 109 197 001 083 000 007 002 196 001 083 000 007 104 095 001 000
+Player Position: [452,83,7]
+Player Name: GM Wake (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 056 046 050 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 104) (MainWindow = 35501480), reason:
+Communication.cpp 1733: exception occurred, reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 1) (OldType = 3206), reason:
+Objects.cpp 280: exception occurred (Type = 1) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 1) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sat Dec 22 14:07:40 2018
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 22/12/2018 18:41:33 - GM Bogo (76.64.145.203) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 110 180 131 131 132 030 110 110 131 131
+Last Packet: 180 018 164 000 089 111 117 032 104 097 118 101 032 116 104 101
+Player Position: [539,434,7]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 056 046 050 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 110) (MainWindow = 35699648), reason:
+Communication.cpp 2177: exception occurred (Container = 0), reason:
+Objects.cpp 280: exception occurred (Type = 25601) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 25601) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sat Dec 22 18:41:20 2018
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 23/12/2018 16:58:3 - GM Bogo (70.81.48.139) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 106 180 131 106 180 131 106 180 131
+Last Packet: 180 019 014 000 047 109 032 108 105 118 101 032 114 101 097 112
+Player Position: [153,58,7]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 056 046 050 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Sun Dec 23 16:57:15 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 6/1/2019 20:34:34 - Iiers (76.64.144.127) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 109 109 109 109 109 109 109 109 109
+Last Packet: 109 075 003 115 002 007 001 075 003 114 002 007 000 000 000 000
+Player Position: [841,629,7]
+Player Name: Iiers (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 056 046 050 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Sun Jan 06 20:32:49 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 11/1/2019 22:35:11 - GM Bogo (76.64.144.127) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 132 132 132 132 132 132 132 132 132 132
+Last Packet: 109 017 003 098 002 007 001 016 003 098 002 007 104 245 017 170
+Player Position: [784,610,7]
+Player Name: GM Bogo (WakeBaiak)
+Player Action: 049 057 050 046 057 057 046 053 056 046 050 049 057 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Fri Jan 11 22:32:22 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 6/5/2019 21:56:38 - Pally Maldito (132.255.213.31) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 140 140 140 140 140 140 132 132 132 132
+Last Packet: 140 214 028 000 064 100 140 213 028 000 064 100 140 212 028 000
+Player Position: [155,45,8]
+Player Name: Pally Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Mon May 06 21:55:38 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 6/5/2019 21:58:47 - Pally Maldito (132.255.213.31) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 107 107 107 107 107 107 107 107 107
+Last Packet: 140 212 028 000 064 100 140 212 028 000 064 100 108 152 000 046
+Player Position: [155,45,8]
+Player Name: Pally Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Mon May 06 21:57:49 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 6/5/2019 22:4:50 - Knight Maldito (132.255.213.31) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 140 140 140 140 140 140 161 132 180 131
+Last Packet: 140 214 028 000 064 100 140 214 028 000 064 100 108 156 000 046
+Player Position: [151,45,8]
+Player Name: Knight Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Mon May 06 22:03:44 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 6/5/2019 22:9:41 - Knight Maldito (132.255.213.31) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 140 140 140 140 140 140 107 107 107
+Last Packet: 109 150 000 052 000 006 001 149 000 052 000 006 133 155 000 045
+Player Position: [151,45,8]
+Player Name: Knight Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 27806984), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017], reason:
+ sx: 5 sy: 11 sz: 4
+ Position: 1
+ zx: 4 zy: 11 zz: 4
+ dx: -1 dy: 0 dz: 0
+ abs_sx: 150 abs_sy: 52 abs_sz: 6
+ abs_zx: 149 abs_zy: 52 abs_zz: 6
+ Start Cylinder (1):  (410,0)
+ Start Cylinder (2):  (410,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (499,0) (99,-2147483620)
+ Destination Cylinder (2):  (499,0) (99,-2147483620)(-)(-)(-)(-)(-)(-)(-)(-)
+Mon May 06 22:08:35 2019
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 6/5/2019 22:18:45 - Pally Maldito (132.255.213.31) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 140 140 140 140 140 140 132 180 131 106
+Last Packet: 132 158 000 046 000 007 211 006 000 081 117 101 115 116 115 131
+Player Position: [151,45,8]
+Player Name: Knight Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Mon May 06 22:11:55 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 6/5/2019 22:41:30 - Pally Maldito (132.255.213.31) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 140 140 140 140 140 140 107 107 107
+Last Packet: 140 215 028 000 064 100 140 216 028 000 064 100 140 213 028 000
+Player Position: [155,45,8]
+Player Name: Pally Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 27638968), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017], reason:
+ sx: 0 sy: 11 sz: 4
+ Position: 1
+ zx: 1 zy: 11 zz: 4
+ dx: 1 dy: 0 dz: 0
+ abs_sx: 149 abs_sy: 52 abs_sz: 6
+ abs_zx: 150 abs_zy: 52 abs_zz: 6
+ Start Cylinder (1):  (499,0)
+ Start Cylinder (2):  (499,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (410,0) (99,-2147483620)
+ Destination Cylinder (2):  (410,0) (99,-2147483620)(-)(-)(-)(-)(-)(-)(-)(-)
+Mon May 06 22:20:32 2019
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 6/5/2019 23:5:42 - Pally Maldito (132.255.213.31) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 107 140 140 140 131 134 161 140 131
+Last Packet: 140 215 028 000 064 100 140 216 028 000 064 100 140 211 028 000
+Player Position: [155,45,8]
+Player Name: Pally Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 107) (MainWindow = 11960152), reason:
+Communication.cpp 1846: exception occurred (rx = 9) (ry = 7), reason:
+Communication.cpp 1830: Object is not where it should be, reason:
+ hx: 9 hy: 7 hz: 3 Pos: 3
+ Cylinder (1):  (499,0) (9941,0) (10819,0)
+ Cylinder (2):  (499,0) (9941,0) (10819,0)(-)(-)(-)(-)(-)(-)(-)
+Mon May 06 23:04:57 2019
+Debug Assertion 8.60 Communication.cpp 1830
+
+----- 6/5/2019 23:17:33 - Pally Maldito (132.255.213.31) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 163 180 107 163 180 131 180 107 163 180
+Last Packet: 180 026 063 000 089 111 117 032 109 097 121 032 110 111 116 032
+Player Position: [2056,484,7]
+Player Name: Pally Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Mon May 06 23:17:10 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 6/5/2019 23:28:35 - Pally Maldito (132.255.213.31) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 107 131 180 107 131 180 107 107 107
+Last Packet: 180 026 033 000 089 111 117 032 099 097 110 032 111 110 108 121
+Player Position: [153,50,8]
+Player Name: Pally Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Mon May 06 23:28:04 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 6/5/2019 23:37:3 - Pally Maldito (132.255.213.31) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 131 180 107 131 180 180 107 131 180
+Last Packet: 180 026 033 000 089 111 117 032 099 097 110 032 111 110 108 121
+Player Position: [138,52,7]
+Player Name: Pally Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Mon May 06 23:36:22 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 7/5/2019 0:1:13 - Pally Maldito (132.255.213.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 131 180 107 131 180 107 131 180 107
+Last Packet: 180 026 033 000 089 111 117 032 099 097 110 032 111 110 108 121
+Player Position: [319,1067,8]
+Player Name: Pally Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Tue May 07 00:00:15 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 7/5/2019 0:3:57 - Pally Maldito (132.255.213.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 131 180 163 107 131 180 163 131 180
+Last Packet: 134 111 059 000 064 000 140 154 000 000 016 091 160 201 005 099
+Player Position: [315,1090,8]
+Player Name: Pally Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Tue May 07 00:03:38 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 7/5/2019 0:13:32 - Pally Maldito (132.255.213.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 131 180 163 107 131 180 163 131 180
+Last Packet: 163 000 000 000 000 180 026 033 000 089 111 117 032 099 097 110
+Player Position: [313,1100,8]
+Player Name: Pally Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Tue May 07 00:13:06 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 7/5/2019 1:22:45 - Pally Maldito (132.255.213.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 180 131 180 107 131 180 107 131 180
+Last Packet: 180 026 033 000 089 111 117 032 099 097 110 032 111 110 108 121
+Player Position: [2113,488,6]
+Player Name: Pally Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Tue May 07 01:22:18 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 7/5/2019 2:57:3 - Knight Maldito (132.255.213.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 140 140 140 132 180 131 106 108 140
+Last Packet: 140 212 028 000 064 100 140 215 028 000 064 100 140 213 028 000
+Player Position: [151,45,8]
+Player Name: Knight Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 3899224), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017], reason:
+ sx: 4 sy: 11 sz: 4
+ Position: 1
+ zx: 5 zy: 11 zz: 4
+ dx: 1 dy: 0 dz: 0
+ abs_sx: 149 abs_sy: 52 abs_sz: 6
+ abs_zx: 150 abs_zy: 52 abs_zz: 6
+ Start Cylinder (1):  (499,0)
+ Start Cylinder (2):  (499,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (410,0) (99,-2147483620)
+ Destination Cylinder (2):  (410,0) (99,-2147483620)(-)(-)(-)(-)(-)(-)(-)(-)
+Tue May 07 02:56:22 2019
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 7/5/2019 2:58:40 - Knight Maldito (132.255.213.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 1007U @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 107 107 107 107 107 107 107 107 107
+Last Packet: 140 212 028 000 064 100 140 215 028 000 064 100 140 213 028 000
+Player Position: [151,45,8]
+Player Name: Knight Maldito (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Tue May 07 02:58:12 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 7/5/2019 15:2:27 - Paladinka (179.156.6.144) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-8
+Video Card: NVIDIA GeForce GTX 1050
+Last Packet Types: 107 107 107 140 140 140 133 132 180 131
+Last Packet: 107 038 004 146 000 006 001 099 000 153 000 000 016 003 107 038
+Player Position: [1062,146,6]
+Player Name: Paladinka (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 50 MaW: 28C7F58 MoW: 0), reason:
+Control.cpp 1693: exception occurred (Type = 50), reason:
+ConsoleWindow.cpp 2124: exception occurred (RecvMode = 7) (SendMode = 7), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0000002C)
+Tue May 07 14:59:26 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 7/5/2019 17:57:56 - Anthony Miguel (179.97.40.178) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Celeron G1610 @ 2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 109 030 131 132 180 160 160 108 131
+Last Packet: 109 086 001 205 004 008 004 086 001 204 004 008 109 098 001 194
+Player Position: [346,1222,8]
+Player Name: Anthony Miguel (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Tue May 07 17:57:41 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 7/5/2019 19:45:18 - Druid Doido (177.74.121.244) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -7500U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 107 107 107 107 107 107 107 107 107
+Last Packet: 107 160 000 051 000 007 003 099 000 043 001 000 016 001 107 160
+Player Position: [154,52,7]
+Player Name: Druid Doido (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2817F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Tue May 07 19:45:02 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 8/5/2019 9:27:50 - Sapo Leao (177.195.119.12) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows 7 Business Edition 64 Bit in BRA
+Processor: AMD RYZEN 5 1
+Video Card: NVIDIA GeForce GTS 450
+Last Packet Types: 131 132 030 131 131 132 131 131 132 131
+Last Packet: 132 148 000 050 000 007 181 005 000 091 086 073 080 093 131 148
+Player Position: [148,50,7]
+Player Name: Sapo Leao (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2A6EF18 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Wed May 08 09:27:34 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 8/5/2019 10:2:3 - Krystian (178.235.181.101) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 64 Bit in POL
+Processor: Intel CORE I3-2
+Video Card: ATI Radeon HD AMD 7500M
+Last Packet Types: 109 109 131 131 131 131 140 131 108 108
+Last Packet: 109 093 009 162 006 005 001 093 009 161 006 005 000 000 000 000
+Player Position: [2390,1697,4]
+Player Name: Krystian (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2717F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Wed May 08 15:01:46 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 8/5/2019 14:8:25 - Csharpie (177.135.10.154) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Celeron G530 @ 2.
+Video Card: ATI Radeon HD AMD 5450
+Last Packet Types: 109 109 109 109 030 109 109 109 109 109
+Last Packet: 109 121 000 056 000 004 001 122 000 056 000 004 000 000 000 000
+Player Position: [121,53,5]
+Player Name: Csharpie (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 337F58 MoW: 2590468), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 02737F90)
+Wed May 08 14:07:53 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 8/5/2019 16:38:49 - Sapo Leao (177.195.119.12) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows 7 Business Edition 64 Bit in BRA
+Processor: AMD RYZEN 5 1
+Video Card: NVIDIA GeForce GTS 450
+Last Packet Types: 140 140 140 140 140 140 180 131 180 163
+Last Packet: 140 212 028 000 064 100 140 213 028 000 064 100 140 211 028 000
+Player Position: [154,43,8]
+Player Name: Sapo Leao (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Wed May 08 16:38:05 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 8/5/2019 21:9:59 - Alonsux (191.191.55.113) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 132 132 132 132 132 132 132 132 132
+Last Packet: 107 158 000 055 000 008 002 163 021 000 000 000 000 000 000 000
+Player Position: [159,54,8]
+Player Name: Alonsux (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: AC8238 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 5723), reason:
+MapWindow.cpp 1146: exception occurred (posx = -32) (posy = 224), reason:
+MapWindow.cpp 1049: exception occurred (i = 0) (Creatures[i]->OutfitType = 145), reason:
+MapWindow.cpp 1037: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at AE13100E)
+Wed May 08 21:09:26 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 12/5/2019 11:51:30 - Krystian (178.235.181.86) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 64 Bit in POL
+Processor: Intel CORE I3-2
+Video Card: ATI Radeon HD AMD 7500M
+Last Packet Types: 131 140 131 132 180 160 160 134 131 131
+Last Packet: 131 239 005 074 007 007 012 131 240 005 074 007 007 012 131 238
+Player Position: [1521,1870,7]
+Player Name: Krystian (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: B67F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 11349224), reason:
+ContentWindows.cpp 1290: exception occurred (Surface = 1) (Obj.Type = 0), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 968: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 1096: assertion failed (Position = 9) (SkinProperties.PlayerStates.NumberOfIcons = 9), reason:
+In(Position,0,SkinProperties.PlayerStates.NumberOfIcons-1)
+Sun May 12 16:51:14 2019
+Debug Assertion 8.60 ContentWindows.cpp 1096
+
+----- 12/5/2019 11:52:23 - Krystian (178.235.181.86) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 64 Bit in POL
+Processor: Intel CORE I3-2
+Video Card: ATI Radeon HD AMD 7500M
+Last Packet Types: 109 133 131 131 131 131 131 131 180 162
+Last Packet: 134 040 094 001 064 000 160 059 011 059 011 159 064 007 000 187
+Player Position: [1521,1870,7]
+Player Name: Krystian (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 267F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 38287872), reason:
+ContentWindows.cpp 1290: exception occurred (Surface = 1) (Obj.Type = 0), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 968: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 1096: assertion failed (Position = 9) (SkinProperties.PlayerStates.NumberOfIcons = 9), reason:
+In(Position,0,SkinProperties.PlayerStates.NumberOfIcons-1)
+Sun May 12 16:51:38 2019
+Debug Assertion 8.60 ContentWindows.cpp 1096
+
+----- 13/5/2019 17:52:56 - Mostrengo (187.108.213.211) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD E-350
+Video Card: ATI Radeon HD AMD 6310 
+Last Packet Types: 107 107 140 140 140 140 140 140 140 140
+Last Packet: 107 053 004 146 000 006 001 099 000 071 003 000 016 000 180 026
+Player Position: [1077,146,6]
+Player Name: Mostrengo (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 50 MaW: 2737F58 MoW: 0), reason:
+Control.cpp 1693: exception occurred (Type = 50), reason:
+ConsoleWindow.cpp 2124: exception occurred (RecvMode = 7) (SendMode = 7), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0000002C)
+Sun May 12 13:34:02 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 13/5/2019 18:6:0 - Mostrengo (187.108.213.211) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD E-350
+Video Card: ATI Radeon HD AMD 6310 
+Last Packet Types: 106 160 180 180 131 180 180 108 163 180
+Last Packet: 180 025 035 000 085 115 105 110 103 032 116 104 101 032 108 097
+Player Position: [184,84,7]
+Player Name: Mostrengo (Extreme-Baiak)
+Player Action: 049 052 057 046 053 054 046 051 053 046 049 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 106) (MainWindow = 41845600), reason:
+Communication.cpp 1784: exception occurred (rx = 16) (ry = 8), reason:
+Map.cpp 488: assertion failed (Position = 9), reason:
+Position<=Point.getObjectCount()
+Mon May 13 18:05:11 2019
+Debug Assertion 8.60 Map.cpp 488
+
+----- 17/6/2019 15:0:17 - Account Manager (45.230.106.235) -----
+
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Home Basic Edition 32 Bit in BRA
+Processor: Intel Pentium 4 3.00GHZ
+Video Card: STANDARD 
+Last Packet Types: 021 160 160 160 160 160 120 160 120 160
+Last Packet: 010 047 112 000 016 050 000 000 100 104 126 038 124 007 168 017
+Player Position: [32360,31782,7]
+Player Name: Radical (iknaza)
+Player Action: 049 051 049 046 049 048 056 046 049 050 053 046 051 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 17 MaW: 1CBC360 MoW: 0), reason:
+Control.cpp 1693: exception occurred (Type = 17), reason:
+Dialogs.cpp 338: exception occurred, reason:
+Dialogs.cpp 1705: exception occurred, reason:
+Objects.cpp 631: exception occurred (Number = 369), reason:
+Container.h 226: index out of range (original i: 369, i: 368, min: 1, d: 367)
+Mon Jun 10 13:59:02 2019
+Debug Assertion 8.60 Container.h 226
+
+----- 18/6/2019 11:38:34 - Todynho (186.209.65.229) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Celeron N2820 @ 2
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 163 180 107 163 180 107 163 180 107
+Last Packet: 180 026 063 000 089 111 117 032 109 097 121 032 110 111 116 032
+Player Position: [536,436,7]
+Player Name: Todynho (Fantasy)
+Player Action: 049 057 050 046 057 057 046 052 051 046 049 054 052 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Tue Jun 18 12:38:12 2019
+Debug Assertion 8.60 Network.cpp 921
+

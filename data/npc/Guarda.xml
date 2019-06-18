@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+ <npc name="Guarda" script="data/npc/scripts/default.lua" walkinterval="0" floorchange="0">
+  <health now="100" max="100" /> 
+  <look type="268" head="114" body="114" legs="114" feet="114" addons="3" /> 
+ <voices>
+  <voice text="Aposte e teste sua sorte!" interval2="100" margin="1" yell="no" /> 
+  </voices>
+ <parameters>
+  <parameter key="message_farewell" value="Tchau Tchau, HAHAHA!" /> 
+  <parameter key="message_walkaway" value="Tchau Tchau, HAHAHA!" /> 
+  <parameter key="module_keywords" value="1" /> 
+  <parameter key="keywords" value="cassino" /> 
+  <parameter key="keyword_reply1" value="O WakeServ Possui um sistema exclusivo de cassino, onde voce possui 20% de chance de conseguir um super item." /> 
+  <parameter key="message_greet" value="Ola |PLAYERNAME| Esta com sorte hoje?! para saber mais sobre o nosso cassino diga {Cassino System}" /> 
+  </parameters>
+  </npc>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Crystalping" nameDescription="a crystalping" race="blood" experience="49000" speed="580" manacost="0">
+ <health now="15000" max="15000"/>
+<look type="304" corpse="9801"/>
+ <targetchange interval="5000" chance="8"/>
+ <strategy attack="100" defense="0"/>
+ <flags>
+  <flag summonable="0"/>
+  <flag attackable="1"/>
+  <flag hostile="1"/>
+  <flag illusionable="0"/>
+  <flag convinceable="0"/>
+  <flag pushable="0"/>
+  <flag canpushitems="1"/>
+  <flag canpushcreatures="1"/>
+  <flag targetdistance="1"/>
+  <flag staticattack="90"/>
+  <flag runonhealth="0"/>
+ </flags>
+<attacks>
+		<attack name="melee" interval="1000" min="-100" max="-123"/>
+		
+<attack name="fire" interval="2000" chance="20" radius="3" max="-480">
+<attribute key="shootEffect" value="explosion"/>
+<attribute key="areaEffect" value="explosion"/>
+		</attack>
+	<attack name="death" interval="1000" chance="15" radius="3" min="-240" max="-370">
+			<attribute key="areaEffect" value="mortarea"/>
+		</attack>
+	<attack name="drunk" interval="2000" chance="10" target="0" radius="5">
+			<attribute key="shootEffect" value="poison"/>
+			<attribute key="areaEffect" value="poison"/>
+		</attack>	
+</attacks>
+<defenses armor="16" defense="19">
+		<defense name="healing" interval="2000" chance="15" min="650" max="700">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>	
+	</defenses>
+ <elements>
+  <element physicalPercent="10"/>
+  <element firePercent="30"/>
+  <element icePercent="30"/>
+  <element earthPercent="30"/>
+  <element energyPercent="-20"/>
+  <element holyPercent="-15"/>
+ </elements>
+ <immunities>
+<immunity ice="1"/>
+<immunity fire="1"/>
+<immunity earth="1"/>
+  <immunity paralyze="1"/>
+  <immunity invisible="1"/>
+ </immunities>
+ <voices interval="5000" chance="10">
+  <voice sentence="WAHHHH!"/>
+  <voice sentence="RAAARRR!"/>
+  <voice sentence="GRRRRRR!"/>
+ </voices>
+ <loot>
+  <item id="2148" countmax="1" chance="100000"/><!-- gold coin -->
+  <item id="2152" countmax="2" chance="100000"/><!-- platinum coin -->
+  <item id="2666" countmax="8" chance="20000"/><!-- meat -->
+  <item id="2672" countmax="3" chance="10000"/><!-- dragon ham -->
+  <item id="2220" chance="10000"/><!-- dirty fur -->
+  <item id="2160" chance="5000"/><!-- broken pottery -->
+  <item id="2452" chance="4404"/><!-- heavy mace -->
+  <item id="6558" chance="2500"/><!-- concentrated demonic blood -->
+  <item id="6558" chance="2500"/><!-- concentrated demonic blood -->
+  <item id="6500" countmax="1" chance="1429"/><!-- demonic essence -->
+  <item id="1987" chance="100000"><!-- bag -->
+   <inside>
+    <item id="5944" countmax="1" chance="1333"/><!-- soul orb -->
+    <item id="2434" chance="1667"/><!-- dragon hammer -->
+    <item id="2466" chance="3330"/><!-- golden armor -->
+    <item id="2470" chance="4000"/><!-- golden legs -->
+    <item id="7452" chance="600"/><!-- spiked squelcher -->
+   </inside>
+  </item>
+ </loot>
+</monster>

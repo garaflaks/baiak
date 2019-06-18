@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="First Addon" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="130" head="59" body="121" legs="129" feet="0" addons="1"/>
+<voices>
+<voice text="Cada addon um segredo! Posso lhe ajudar?" interval2="100" margin="1" yell="no"/>
+</voices>
+<parameters>
+<parameter key="message_farewell" value="Tchau Tchau, volte sempre!" />
+<parameter key="message_walkaway" value="Tchau Tchau, volte sempre!" />
+ <parameter key="module_keywords" value="1" />
+ <parameter key="keywords" value="mage" />
+ <parameter key="keyword_reply1" value="Basta ter 1x soul stone, este item pode ser obtido em task." />
+ <parameter key="message_greet" value="Seja Bem vindo |PLAYERNAME|. voce gostaria de saber sobre o {first mage addon?}"/>
+</parameters>
+</npc>

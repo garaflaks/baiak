@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quests>
+	
+<quest startstoragevalue="1" startstorageid="17490" name="Mega's Dungeons">
+	<mission name="The Shield" endvalue="1" startvalue="0" storageid="17497">
+	<missionstate description="The strength of this object is the power of its knowledge." id="1"/>
+</mission>
+<mission name="The Hat's" endvalue="1" startvalue="0" storageid="17458">
+	<missionstate description="The strength of this object is the power of its knowledge." id="1"/>
+</mission>
+<mission name="The Leg Part" endvalue="1" startvalue="0" storageid="17464">
+	<missionstate description="The strength of this object is the power of its knowledge." id="1"/>
+</mission>
+<mission name="The Body part" endvalue="1" startvalue="0" storageid="16095">
+	<missionstate description="The strength of this object is the power of its knowledge." id="1"/>
+</mission>
+<mission name="The Shoes and amulet" endvalue="1" startvalue="0" storageid="12358">
+	<missionstate description="The strength of this object is the power of its knowledge." id="1"/>
+</mission>
+<mission name="The Ring" endvalue="1" startvalue="0" storageid="10502">
+	<missionstate description="The strength of this object is the power of its knowledge." id="1"/>
+</mission>
+</quest>
+	
+<quest startstoragevalue="1" startstorageid="10543" name="The Pits of Inferno Quest">
+	<mission name="Entering on The POI" endvalue="1" startvalue="0" storageid="10543">
+	<missionstate description="You have unblocked the way to Pits of Inferno Room." id="1"/>
+	</mission>
+	<mission name="Reward of POI" endvalue="1" startvalue="0" storageid="10547">
+	<missionstate description="You have unblocked the rewards of Pits of Inferno quest." id="1"/>
+	</mission>
+</quest>
+
+<quest startstoragevalue="1" startstorageid="10540" name="The Ultimate Challenges">
+	<mission name="Demon Helmet Quest" endvalue="1" startvalue="0" storageid="2493">
+	<missionstate description="You defeated the demons and found this precious treasure." id="1"/>
+	</mission>
+	<mission name="Golden Boots Quest" endvalue="1" startvalue="0" storageid="2646">
+	<missionstate description="The secrets of the famous Tibian Tombs are compromised with this discovery.." id="1"/>
+	</mission>
+	<mission name="Elite King Quest" endvalue="1" startvalue="0" storageid="12724">
+	<missionstate description="The best!! The king Mister defeated to you big quality." id="1"/>
+	</mission>
+	<mission name="Promotion Quest" endvalue="1" startvalue="0" storageid="10345">
+	<missionstate description="Awesome!! You are so strong. Get your key right now." id="1"/>
+	</mission>
+	<mission name="Native Armor Quest" endvalue="1" startvalue="0" storageid="12508">
+	<missionstate description="You found the robe of ancients." id="1"/>
+	</mission>
+	<mission name="Dragon Scale Legs Quest" endvalue="1" startvalue="0" storageid="12469">
+	<missionstate description="You found one of mosts rare itens of the world." id="1"/>
+	</mission>
+	<mission name="Winged Helmet Quest" endvalue="1" startvalue="0" storageid="12474">
+	<missionstate description="You found the Helmet of Hermes." id="1"/>
+	</mission>
+	<mission name="The Annihilator" endvalue="1" startvalue="0" storageid="12494">
+	<missionstate description="You have survived the Annihilator and chosen your reward." id="1"/>
+	</mission>
+	<mission name="Switchblade and Food" endvalue="1" startvalue="0" storageid="18765">
+	<missionstate description="You have survived! Your chocolate never end's to rest of your life!" id="1"/>
+	</mission>
+	<mission name="Winged Helmet Quest" endvalue="1" startvalue="0" storageid="11259">
+	<missionstate description="Hmmm... More hits i'll can block!" id="1"/>
+	</mission>
+        <mission name="Critical Feather" endvalue="1" startvalue="0" storageid="12713">
+	<missionstate description="NOW Yours hits will be so strong." id="1"/>
+	</mission>
+        <mission name="Wake Reward" endvalue="1" startvalue="0" storageid="10137">
+	<missionstate description="UP your life/mana with this magic item." id="1"/>
+	</mission>
+        <mission name="Super SD REWARD" endvalue="1" startvalue="0" storageid="12263">
+	<missionstate description="Fight with your friends." id="1"/>
+	</mission>
+        <mission name="Spell Paper" endvalue="1" startvalue="0" storageid="12761">
+	<missionstate description="The secret paper with the new spell." id="1"/>
+	</mission>
+	<mission name="Dodge of Experience" endvalue="1" startvalue="0" storageid="12718">
+	<missionstate description="Here you can fight with gods!" id="1"/>
+	</mission>
+	
+	<mission name="Frozen Plate" endvalue="1" startvalue="0" storageid="8887">
+	<missionstate description="Mission has completed and found this best item." id="1"/>
+	</mission>
+	<mission name="Blessed Shield" endvalue="1" startvalue="0" storageid="2523">
+	<missionstate description="Mission has completed and found this best item." id="1"/>
+	</mission>
+</quest>
+
+<quest startstoragevalue="1" startstorageid="10539" name="The Minor Challenges">
+	<mission name="Golden Armor Quest" endvalue="1" startvalue="0" storageid="2466">
+	<missionstate description="This is a nice item!" id="1"/>
+	</mission>
+</quest>
+	
+</quests>

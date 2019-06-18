@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Silvana" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="157" head="65" body="109" legs="77" feet="104" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="heart backpack,11119,20000;santa backpack,11263,20000;minotaur backpack,11244,20000;dragon backpack,11243,20000;expedition backpack,11241,20000;backpack,1988,20;brocade backpack,9774,50;camouflage backpack,3940,50;Moon backpack,10521,50;Crown backpack,10522,50;"/>
+	</parameters>
+</npc>

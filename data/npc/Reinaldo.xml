@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Reinaldo" script="default.lua" floorchange="0" level="100" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="130" head="0" body="88" legs="66" feet="95" addons="3" />
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. Hello thre, You can see my products using the {Trade} channel." />
+		<parameter key="shop_buyable" value="hailstorm rod,2183,15000;moonlight rod,2186,1000;necrotic rod,2185,3000;northwind rod,8911,7000;springsprout rod,8912,18000;terra rod,2181,10000;underworld rod,8910,22000;wand of cosmic energy,2189,10000;wand of decay,2188,5000;wand of draconia,8921,7500;wand of dragonbreath,2191,10000;wand of inferno,2187,15000;wand of starstorm.,8920,18000;wand of voodoo,8922,22000;" />
+	</parameters>
+</npc>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="GM Bogo" script="default.lua" walkinterval="0">
+	<look type="302" head="59" body="114" legs="114" feet="0" addons="3"/>
+	<health now="100" max="100"/>
+	 
+
+
+<parameters>
+<parameter key="message_greet" value="|PLAYERNAME|, acalme-se! eu sou apenas um NPC. Siga as instruções e boa sorte!" />
+</parameters>
+
+</npc>

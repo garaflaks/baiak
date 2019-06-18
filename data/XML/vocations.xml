@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocations>
+	<vocation id="0" clientId="0" name="None" description="none" needpremium="0" gaincap="5" gainhp="5" gainmana="5" gainhpticks="6" gainhpamount="1" gainmanaticks="6" gainmanaamount="2" manamultiplier="4.0" attackspeed="2000" soulmax="100" gainsoulticks="120" fromvoc="0" attackable="no" droploot="no">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.5" club="2.0" sword="2.0" axe="2.0" distance="2.0" shielding="1.5" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="1" clientId="3" name="Master Sorcerer" description="a master sorcerer" needpremium="0" gaincap="10" gainhp="5" gainmana="30" gainhpticks="1" gainhpamount="100" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="290" soulmax="100" gainsoulticks="120" fromvoc="1">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.6" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.5" club="2.0" sword="2.0" axe="2.0" distance="2.0" shielding="1.5" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="2" clientId="4" name="Elder Druid" description="a elder druid" needpremium="0" gaincap="10" gainhp="5" gainmana="30" gainhpticks="1" gainhpamount="100" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="290" soulmax="100" gainsoulticks="120" fromvoc="2">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.6" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.5" club="1.8" sword="1.8" axe="1.8" distance="1.8" shielding="1.5" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="3" clientId="2" name="Royal Paladin" description="a royal paladin" needpremium="0" gaincap="20" gainhp="10" gainmana="15" gainhpticks="1" gainhpamount="100" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.4" attackspeed="290" soulmax="100" gainsoulticks="120" fromvoc="3">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.7" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.2" club="1.2" sword="1.2" axe="1.2" distance="1.1" shielding="1.1" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="4" clientId="1" name="Elite Knight" description="a elite knight" needpremium="0" gaincap="25" gainhp="15" gainmana="5" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="200" manamultiplier="3.0" attackspeed="290" soulmax="100" gainsoulticks="120" fromvoc="4">
+		<formula meleeDamage="1.5" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.4" shielding="1.1" fishing="1.1" experience="1.0"/>
+	</vocation>
+	
+	<vocation id="5" clientId="3" name="Mystic Sorcerer" description="a mystic sorcerer" needpremium="1" gaincap="10" gainhp="5" gainmana="30" gainhpticks="1" gainhpamount="130" gainmanaticks="1" gainmanaamount="230" manamultiplier="1.1" attackspeed="280" soulmax="100" gainsoulticks="120" fromvoc="1">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.6" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.5" club="2.0" sword="2.0" axe="2.0" distance="2.0" shielding="1.5" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="6" clientId="4" name="Phantom Druid" description="a phantom druid" needpremium="1" gaincap="10" gainhp="5" gainmana="30" gainhpticks="1" gainhpamount="130" gainmanaticks="1" gainmanaamount="230" manamultiplier="1.1" attackspeed="280" soulmax="100" gainsoulticks="120" fromvoc="2">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.6" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.5" club="1.8" sword="1.8" axe="1.8" distance="1.8" shielding="1.5" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="7" clientId="2" name="Real Archer" description="a real archer" needpremium="1" gaincap="20" gainhp="10" gainmana="15" gainhpticks="1" gainhpamount="150" gainmanaticks="1" gainmanaamount="220" manamultiplier="1.4" attackspeed="280" soulmax="100" gainsoulticks="120" fromvoc="3">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.7" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.2" club="1.2" sword="1.2" axe="1.2" distance="1.1" shielding="1.1" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="8" clientId="1" name="Killer Knight" description="a killer knight" needpremium="1" gaincap="25" gainhp="15" gainmana="5" gainhpticks="1" gainhpamount="250" gainmanaticks="1" gainmanaamount="200" manamultiplier="3.0" attackspeed="280" soulmax="100" gainsoulticks="120" fromvoc="4">
+		<formula meleeDamage="1.5" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.4" shielding="1.1" fishing="1.1" experience="1.0"/>
+	</vocation>
+
+
+	<vocation id="9" clientId="3" name="King Sorcerer" description="a king sorcerer" needpremium="1" gaincap="10" gainhp="5" gainmana="30" gainhpticks="1" gainhpamount="180" gainmanaticks="1" gainmanaamount="280" manamultiplier="1.1" attackspeed="250" soulmax="100" gainsoulticks="120" fromvoc="5">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.6" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.5" club="2.0" sword="2.0" axe="2.0" distance="2.0" shielding="1.5" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="10" clientId="4" name="King Druid" description="a king druid" needpremium="1" gaincap="10" gainhp="5" gainmana="30" gainhpticks="1" gainhpamount="180" gainmanaticks="1" gainmanaamount="280" manamultiplier="1.1" attackspeed="250" soulmax="100" gainsoulticks="120" fromvoc="6">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.4" magHealingDamage="1.6" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.5" club="1.8" sword="1.8" axe="1.8" distance="1.8" shielding="1.5" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="11" clientId="2" name="King Paladin" description="a king paladin" needpremium="1" gaincap="20" gainhp="10" gainmana="15" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="270" manamultiplier="1.4" attackspeed="250" soulmax="100" gainsoulticks="120" fromvoc="7">
+		<formula meleeDamage="1.0" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.7" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.2" club="1.2" sword="1.2" axe="1.2" distance="1.1" shielding="1.1" fishing="1.1" experience="1.0"/>
+	</vocation>
+	<vocation id="12" clientId="1" name="King Knight" description="a king knight" needpremium="1" gaincap="25" gainhp="15" gainmana="5" gainhpticks="1" gainhpamount="300" gainmanaticks="1" gainmanaamount="250" manamultiplier="3.0" attackspeed="250" soulmax="100" gainsoulticks="120" fromvoc="8">
+		<formula meleeDamage="1.5" distDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.3" magDefense="1.3" armor="1.4"/>
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.4" shielding="1.1" fishing="1.1" experience="1.0"/>
+	</vocation>
+</vocations>

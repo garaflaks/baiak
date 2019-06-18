@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Matheus" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="150" max="150"/>
+	<look type="130" head="0" body="76" legs="94" feet="95" addons="1"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. I Sell rings."/>
+		<parameter key="shop_buyable" value="life ring,2168,3000;ring of healing,2214,3000;stealth ring,2165,8000;time ring,2169,3000;might ring,2164,9000,20;club ring,2209,3000;sword ring,2207,3000;axe ring,2208,3000;dwarven ring,2213,3000;"/>
+	</parameters>
+</npc>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Paradise" nameDescription="Paradise" race="UNDEAD" experience="25000" speed="220" manacost="0">
+  <health now="11000" max="11000"/>
+  <look type="300" corpse="8955"/>
+  <targetchange interval="10000" chance="20"/>
+  <strategy attack="300" defense="235"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag staticattack="98"/>
+    <flag targetdistance="1"/>
+    <flag runonhealth="3500"/>
+  </flags>
+  <attacks>
+   <attack name="melee" interval="2000" skill="30" attack="40"/>
+	<attack name="melee" interval="2000" chance="20" range="7" radius="6" target="0" min="-300" max="-400">
+	  <attribute key="areaEffect" value="blackspark"/>
+    </attack>
+    <attack name="melee" interval="1000" chance="36" range="7" radius="1" target="1" min="-200" max="-300">
+      <attribute key="shootEffect" value="whirlwindsword"/>
+      <attribute key="areaEffect" value="redspark"/>
+    </attack>
+    <attack name="energy" interval="1000" chance="20" length="8" spread="0" min="-100" max="-200">
+      <attribute key="areaEffect" value="mortarea"/>
+    </attack>
+    <attack name="physical" interval="2000" chance="15" range="7" radius="13" target="0" min="-100" max="-250">
+	  <attribute key="areaEffect" value="yellowspark"/>
+    </attack>
+    <attack name="melee" interval="2000" chance="15" range="7" radius="4" target="0" min="-200" max="-350">
+	  <attribute key="areaEffect" value="energyarea"/>
+    </attack>
+  </attacks>
+  <defenses armor="100" defense="200">
+    <defense name="healing" interval="2000" chance="35" min="1000" max="1500">
+      <attribute key="areaEffect" value="blueshimmer"/>
+</defense>
+  </defenses>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="1"/>
+    <immunity fire="1"/>
+    <immunity poison="1"/>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity outfit="1"/>
+    <immunity drunk="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+    <voices interval="1000" chance="10">
+      <voice sentence="Your soul will be mine!"/>
+      <voice sentence="MWA HA HA HA HA!"/>
+    </voices>
+	<loot>
+		<item id="2160" countmax="10" chance="40000"/><!-- gold coin -->
+		<item id="2514" chance="1000"/><!-- mastermind shield -->
+		<item id="2470" chance="850"/><!-- golden legs -->
+		<item id="2520" chance="1100"/><!-- demon shield -->
+	</loot>
+</monster>

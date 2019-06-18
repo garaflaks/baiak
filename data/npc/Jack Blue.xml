@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Jack Blue" script="data/npc/scripts/Jack Blue.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="129" head="96" body="113" legs="95" feet="115" addons="3"/>
+<voices>
+<voice text="Meu nome eh Jack Blue, eu posso te dar acesso a uma das mais perigosas {quest} desse mundo!" interval2="100" margin="1" yell="no"/>
+</voices>
+<parameters>
+<parameter key="message_farewell" value="Tchau Tchau, volte quando estiver preparado para esse duelo." />
+<parameter key="message_walkaway" value="Tchau Tchau, volte quando estiver preparado para esse duelo." />
+ <parameter key="module_keywords" value="1" />
+ <parameter key="keywords" value="Elite" />
+ <parameter key="keyword_reply1" value="Meu nome eh Jack Blue, eu posso te dar acesso a uma das mais perigosas {quest} desse mundo!" />
+ <parameter key="keyword_reply2" value="Meu nome eh Jack Blue, eu posso te dar acesso a uma das mais perigosas {quest} desse mundo!" />
+ <parameter key="message_greet" value="Seja Bem vindo |PLAYERNAME|. tem intesse em encarar o subsolo do inferno e enfrentar os demonios?? aconselho a montar uma grande equipe e ir preparado! eu irei cobrar uma quantia simbolica de 10kk.. ok? diga {quest} !"/>
+</parameters>
+</npc>

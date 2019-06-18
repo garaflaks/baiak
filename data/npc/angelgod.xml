@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Anjo de Deus" script="data/npc/scripts/default.lua" walkinterval="0">
+    <health now="100" max="100"/>
+	<look type="336" head="0" body="0" legs="0" feet="0" addons="3"/>
+	<parameters>
+		<parameter key="message_greet" value="Ola, sua bencao esta garantida aqui!"/>
+        <parameter key="message_farewell" value="Boa sorte."/>
+		<parameter key="message_walkaway" value="Nos acreditamos em voces! Acabe com esse inferno!" />
+    </parameters>
+</npc>

@@ -1,0 +1,4 @@
+<npc name="Dora" script="potions.lua" access="5" lookdir="1">
+    <health now="1000" max="1000"/>
+<look type="149" head="114" body="84" legs="109" feet="77" addons="3"/>
+</npc>  

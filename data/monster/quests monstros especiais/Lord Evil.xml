@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Lord Evil" nameDescription="the king of demons" race="undead" experience="70000" speed="450" manacost="0">
+	<health now="30500" max="30500"/>
+	<look type="12" head="0" body="0" legs="0" feet="0" corpse="6068"/>
+	<targetchange interval="10000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag staticattack="98"/>
+		<flag targetdistance="1"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" skill="140" attack="110"/>
+		<attack name="fire" interval="1000" chance="70" range="7" radius="3" target="1" min="-300" max="-700">
+			<attribute key="shootEffect" value="fire"/>
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+		<attack name="physical" interval="2000" chance="75" length="8" spread="8" min="-300" max="-380">
+			<attribute key="areaEffect" value="mortarea"/>
+		</attack>
+		<attack name="speed" interval="9000" chance="75" range="7" speedchange="-850" duration="50000">
+			<attribute key="areaEffect" value="whitenote"/>
+		</attack>
+		<attack name="physical" interval="1000" chance="70" target="0" radius="3" min="-150" max="-400">
+			<attribute key="areaEffect" value="mortarea"/>
+		</attack>
+	</attacks>
+	<defenses armor="55" defense="65">
+		<defense name="healing" interval="2000" chance="40" min="250" max="350">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="speed" interval="2000" chance="10" speedchange="808" duration="6000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="30"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+		<immunity fire="1"/>
+		<immunity earth="1"/>
+	</immunities>
+	<voices interval="5000" chance="30">
+		<voice sentence="AUEHAUEHAUHEAUHEUAHEA" yell="1"/>
+	</voices>
+ <loot>
+  <item id="2160" chance="50000"/><!-- platinum coin -->
+  <item id="2795" countmax="5" chance="20000"/><!-- fire mushroom -->
+  <item id="2432" chance="3703"/><!-- fire axe -->
+  <item id="2393" chance="2000"/><!-- giant sword -->
+  <item id="2418" chance="1428"/><!-- golden sickle -->
+  <item id="2165" chance="1333"/><!-- stealth ring -->
+  <item id="2462" chance="1204"/><!-- devil helmet -->
+  <item id="1982" chance="1190"/><!-- purple tome -->
+  <item id="2179" chance="1010"/><!-- gold ring -->
+  <item id="2171" chance="813"/><!-- platinum amulet -->
+  <item id="2396" chance="666"/><!-- ice rapier -->
+  <item id="2520" chance="1049"/><!-- demon shield -->
+  <item id="2214" chance="473"/><!-- ring of healing -->
+  <item id="5954" chance="467"/><!-- demon horn -->
+  <item id="2470" chance="613"/><!-- golden legs -->
+  <item id="2514" chance="889"/><!-- mastermind shield -->
+  <item id="2164" chance="170"/><!-- might ring -->
+  <item id="2472" chance="650"/><!-- magic plate armor -->
+  <item id="7393" chance="78"/><!-- demon trophy -->
+  <item id="7382" chance="60"/><!-- demonrage sword -->
+ </loot>
+</monster>

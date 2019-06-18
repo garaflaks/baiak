@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Guarda" script="data/npc/scripts/default.lua" walkinterval="0">
+    <health now="100" max="100"/>
+	<look type="268" head="114" body="114" legs="114" feet="114" addons="3"/>
+	<parameters>
+		<parameter key="message_greet" value="Esta com sorte hoje?!"/>
+        <parameter key="message_farewell" value="Hahaha."/>
+		<parameter key="message_walkaway" value="Se sorte no jogo, azar no amor." />
+    </parameters>
+</npc>

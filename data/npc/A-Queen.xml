@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Queen Outfit" script="data/npc/scripts/default.lua" alkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="331" head="59" body="114" legs="114" feet="0" addons="3"/>
+	 
+<voices>
+<voice text="Seja a rainha dessas terras, mate todos" interval2="900" margin="1" yell="no"/>
+</voices>
+
+</npc>

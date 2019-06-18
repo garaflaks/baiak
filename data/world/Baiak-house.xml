@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Cemetery house 1" houseid="12" entryx="154" entryy="89" entryz="7" rent="0" townid="1" size="59" />
+	<house name="Cemetery house 2" houseid="13" entryx="167" entryy="85" entryz="7" rent="0" townid="1" size="76" />
+	<house name="Frozen Ville 1" houseid="16" entryx="119" entryy="142" entryz="7" rent="0" townid="2" size="16" />
+	<house name="Frozen Ville 2" houseid="17" entryx="135" entryy="147" entryz="7" rent="0" townid="2" size="24" />
+	<house name="Frozen Ville 3" houseid="18" entryx="126" entryy="148" entryz="7" rent="0" townid="2" size="14" />
+	<house name="Frozen Ville 4" houseid="19" entryx="126" entryy="142" entryz="7" rent="0" townid="2" size="16" />
+	<house name="Frozen Ville 5" houseid="20" entryx="143" entryy="149" entryz="7" rent="0" townid="2" size="21" />
+	<house name="Frozen Ville 6" houseid="21" entryx="87" entryy="171" entryz="7" rent="0" townid="2" size="69" />
+	<house name="Frozen Ville 7" houseid="22" entryx="97" entryy="171" entryz="7" rent="0" townid="2" size="68" />
+	<house name="Frozen Ville 8" houseid="23" entryx="88" entryy="177" entryz="7" rent="0" townid="2" size="66" />
+	<house name="Frozen Ville 9" houseid="24" entryx="94" entryy="179" entryz="7" rent="0" townid="2" size="40" />
+	<house name="Frozen Ville 10" houseid="25" entryx="92" entryy="183" entryz="7" rent="0" townid="2" size="58" />
+	<house name="Frozen Ville 11" houseid="26" entryx="100" entryy="177" entryz="7" rent="0" townid="2" size="76" />
+	<house name="Frozen Ville 12" houseid="27" entryx="98" entryy="187" entryz="7" rent="0" townid="2" size="28" />
+	<house name="Frozen First ville" houseid="29" entryx="156" entryy="107" entryz="7" rent="0" townid="2" size="56" />
+	<house name="North Ville 1" houseid="30" entryx="143" entryy="30" entryz="7" rent="0" townid="1" size="77" />
+	<house name="North Ville 2" houseid="31" entryx="150" entryy="34" entryz="7" rent="0" townid="1" size="23" />
+	<house name="North Ville 3" houseid="32" entryx="157" entryy="34" entryz="7" rent="0" townid="1" size="68" />
+	<house name="North Ville 4" houseid="33" entryx="179" entryy="32" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Principal Street 6" houseid="35" entryx="175" entryy="57" entryz="7" rent="0" townid="1" size="63" />
+	<house name="Principal Street 8" houseid="36" entryx="183" entryy="62" entryz="7" rent="0" townid="1" size="56" />
+	<house name="Demon Street 1" houseid="37" entryx="181" entryy="33" entryz="7" rent="0" townid="1" size="33" />
+	<house name="Demon Street 2" houseid="38" entryx="181" entryy="37" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Demon Street 3" houseid="39" entryx="181" entryy="43" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Demon Street 4" houseid="40" entryx="184" entryy="47" entryz="7" rent="0" townid="1" size="32" />
+	<house name="Demon Street 5" houseid="41" entryx="184" entryy="50" entryz="7" rent="0" townid="1" size="38" />
+	<house name="Demon Ville 1" houseid="42" entryx="177" entryy="33" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Demon Ville 2" houseid="43" entryx="182" entryy="33" entryz="6" rent="0" townid="1" size="16" />
+	<house name="Demon Ville 3" houseid="44" entryx="185" entryy="35" entryz="6" rent="0" townid="1" size="28" />
+	<house name="Demon Ville 4" houseid="45" entryx="182" entryy="37" entryz="6" rent="0" townid="1" size="16" />
+	<house name="Demon Ville 5" houseid="46" entryx="182" entryy="41" entryz="6" rent="0" townid="1" size="28" />
+	<house name="Demon Street 6" houseid="47" entryx="186" entryy="66" entryz="7" rent="0" townid="1" size="30" />
+	<house name="Demon Street 7" houseid="48" entryx="190" entryy="73" entryz="7" rent="0" townid="1" size="27" />
+	<house name="HouseShop 1" houseid="49" entryx="171" entryy="41" entryz="7" rent="0" townid="1" size="14" />
+	<house name="Cemetery Village #1" houseid="50" entryx="161" entryy="73" entryz="7" rent="0" townid="1" size="117" />
+	<house name="Principal Street 1" houseid="51" entryx="145" entryy="61" entryz="7" rent="0" townid="1" size="84" />
+	<house name="Principal Street 2" houseid="52" entryx="154" entryy="61" entryz="7" rent="0" townid="1" size="87" />
+	<house name="Principal Street 3" houseid="53" entryx="163" entryy="61" entryz="7" rent="0" townid="1" size="84" />
+	<house name="Sphere Gallery" houseid="54" entryx="172" entryy="71" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Sphere Gallery 2" houseid="55" entryx="177" entryy="68" entryz="6" rent="0" townid="1" size="21" />
+	<house name="Sphere Gallery 3" houseid="56" entryx="180" entryy="62" entryz="5" rent="0" townid="1" size="46" />
+	<house name="Sphere Gallery 4" houseid="57" entryx="171" entryy="75" entryz="7" rent="0" townid="1" size="16" />
+	<house name="Principal Street 4" houseid="58" entryx="132" entryy="61" entryz="7" rent="0" townid="1" size="19" />
+	<house name="Principal Street 5" houseid="59" entryx="125" entryy="64" entryz="6" rent="0" townid="1" size="34" />
+	<house name="North Ville 5" houseid="60" entryx="165" entryy="27" entryz="6" rent="0" townid="1" size="77" />
+	<house name="North Ville 6" houseid="61" entryx="167" entryy="25" entryz="6" rent="0" townid="1" size="7" />
+	<house name="North Ville 7" houseid="62" entryx="165" entryy="31" entryz="6" rent="0" townid="1" size="14" />
+	<house name="North Ville 8" houseid="63" entryx="168" entryy="26" entryz="5" rent="0" townid="1" size="24" />
+	<house name="North Ville 9" houseid="64" entryx="169" entryy="28" entryz="5" rent="0" townid="1" size="83" />
+	<house name="Jungle #1" houseid="65" entryx="214" entryy="177" entryz="7" rent="0" townid="3" size="38" />
+	<house name="Jungle #2" houseid="66" entryx="206" entryy="177" entryz="7" rent="0" townid="3" size="38" />
+	<house name="Jungle #3" houseid="67" entryx="198" entryy="177" entryz="7" rent="0" townid="3" size="38" />
+	<house name="Desert Ville #1" houseid="68" entryx="209" entryy="65" entryz="7" rent="0" townid="1" size="37" />
+	<house name="Desert Ville #2" houseid="69" entryx="207" entryy="69" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Desert Ville #3" houseid="70" entryx="199" entryy="61" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #4" houseid="71" entryx="196" entryy="54" entryz="7" rent="0" townid="1" size="83" />
+	<house name="Desert Ville #5" houseid="72" entryx="204" entryy="48" entryz="7" rent="0" townid="1" size="70" />
+	<house name="Desert Ville #6" houseid="73" entryx="207" entryy="32" entryz="7" rent="0" townid="1" size="72" />
+	<house name="Desert Ville #7" houseid="74" entryx="197" entryy="32" entryz="7" rent="0" townid="1" size="67" />
+	<house name="Desert Ville #8" houseid="75" entryx="228" entryy="58" entryz="7" rent="0" townid="1" size="65" />
+	<house name="Desert Ville #9" houseid="76" entryx="207" entryy="53" entryz="7" rent="0" townid="1" size="98" />
+	<house name="Desert Ville #10" houseid="77" entryx="228" entryy="38" entryz="7" rent="0" townid="1" size="23" />
+	<house name="Desert Ville #11" houseid="78" entryx="235" entryy="34" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #12" houseid="79" entryx="243" entryy="34" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #13" houseid="80" entryx="251" entryy="34" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #14" houseid="81" entryx="259" entryy="34" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #15" houseid="82" entryx="267" entryy="34" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #17" houseid="83" entryx="274" entryy="34" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #16" houseid="84" entryx="225" entryy="45" entryz="7" rent="0" townid="1" size="23" />
+	<house name="Desert Ville #28" houseid="85" entryx="235" entryy="56" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #29" houseid="86" entryx="243" entryy="56" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #30" houseid="87" entryx="251" entryy="56" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #31" houseid="88" entryx="259" entryy="56" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #32" houseid="89" entryx="267" entryy="56" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #33" houseid="90" entryx="274" entryy="56" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #34" houseid="91" entryx="275" entryy="37" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #35" houseid="92" entryx="275" entryy="45" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #36" houseid="93" entryx="275" entryy="53" entryz="7" rent="0" townid="1" size="47" />
+	<house name="Desert Ville #37" houseid="94" entryx="247" entryy="48" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Desert Ville #38" houseid="95" entryx="248" entryy="45" entryz="7" rent="0" townid="1" size="12" />
+	<house name="Desert Ville #39" houseid="96" entryx="248" entryy="48" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Desert Ville #40" houseid="97" entryx="246" entryy="47" entryz="6" rent="0" townid="1" size="28" />
+	<house name="Desert Ville #41" houseid="98" entryx="247" entryy="49" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Desert Ville #42" houseid="99" entryx="241" entryy="46" entryz="6" rent="0" townid="1" size="18" />
+	<house name="Desert Ville #18" houseid="100" entryx="239" entryy="46" entryz="6" rent="0" townid="1" size="18" />
+	<house name="Desert Ville #19" houseid="101" entryx="258" entryy="46" entryz="6" rent="0" townid="1" size="16" />
+	<house name="Desert Ville #20" houseid="102" entryx="265" entryy="46" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Desert Ville #21" houseid="103" entryx="260" entryy="46" entryz="6" rent="0" townid="1" size="16" />
+	<house name="Desert Ville #22" houseid="104" entryx="266" entryy="46" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Desert Ville #23" houseid="105" entryx="234" entryy="41" entryz="7" rent="0" townid="1" size="19" />
+	<house name="Desert Ville #24" houseid="106" entryx="238" entryy="41" entryz="7" rent="0" townid="1" size="19" />
+	<house name="Desert Ville #25" houseid="107" entryx="258" entryy="41" entryz="7" rent="0" townid="1" size="19" />
+	<house name="Desert Ville #26" houseid="108" entryx="262" entryy="41" entryz="7" rent="0" townid="1" size="19" />
+	<house name="Desert Ville #27" houseid="109" entryx="266" entryy="41" entryz="7" rent="0" townid="1" size="19" />
+	<house name="Biggest Guild Hall" houseid="110" entryx="222" entryy="79" entryz="7" rent="0" townid="1" size="104" />
+	<house name="Temple Ville #1" houseid="111" entryx="144" entryy="45" entryz="6" rent="0" townid="1" size="52" />
+	<house name="Temple Ville #2" houseid="112" entryx="141" entryy="49" entryz="5" rent="0" townid="1" size="13" />
+	<house name="Temple Ville #3" houseid="113" entryx="160" entryy="45" entryz="5" rent="0" townid="1" size="21" />
+	<house name="Temple Ville #4" houseid="114" entryx="142" entryy="45" entryz="4" rent="0" townid="1" size="34" />
+	<house name="Temple Ville #5" houseid="115" entryx="145" entryy="51" entryz="4" rent="0" townid="1" size="18" />
+	<house name="Temple Ville #6" houseid="116" entryx="163" entryy="49" entryz="4" rent="0" townid="1" size="25" />
+	<house name="Temple Ville #7" houseid="117" entryx="163" entryy="50" entryz="4" rent="0" townid="1" size="35" />
+	<house name="VIP #1" houseid="118" entryx="61" entryy="235" entryz="7" rent="0" townid="9" size="81" />
+	<house name="VIP #2" houseid="119" entryx="57" entryy="252" entryz="7" rent="0" townid="9" size="13" />
+	<house name="VIP #3" houseid="120" entryx="58" entryy="252" entryz="7" rent="0" townid="9" size="4" />
+	<house name="VIP #5" houseid="121" entryx="58" entryy="251" entryz="7" rent="0" townid="9" size="13" />
+	<house name="VIP #4" houseid="122" entryx="57" entryy="252" entryz="6" rent="0" townid="9" size="30" />
+	<house name="VIP #7" houseid="123" entryx="81" entryy="250" entryz="7" rent="0" townid="9" size="82" />
+	<house name="VIP #6" houseid="124" entryx="81" entryy="252" entryz="7" rent="0" townid="9" size="82" />
+	<house name="Depot Home 1" houseid="125" entryx="131" entryy="44" entryz="7" rent="0" townid="1" size="17" />
+	<house name="Rotworm Ville #126" houseid="126" entryx="119" entryy="29" entryz="9" rent="0" townid="1" size="46" />
+	<house name="Rotworm Ville #127" houseid="127" entryx="132" entryy="19" entryz="9" rent="0" townid="1" size="30" />
+	<house name="Rotworm Ville #128" houseid="128" entryx="126" entryy="15" entryz="9" rent="0" townid="1" size="39" />
+	<house name="Rotworm Ville #129" houseid="129" entryx="126" entryy="14" entryz="9" rent="0" townid="1" size="45" />
+	<house name="Rotworm Ville #130" houseid="130" entryx="116" entryy="14" entryz="9" rent="0" townid="1" size="38" />
+	<house name="Rotworm Ville #131" houseid="131" entryx="106" entryy="14" entryz="9" rent="0" townid="1" size="34" />
+	<house name="Rotworm Ville #132" houseid="132" entryx="97" entryy="14" entryz="9" rent="0" townid="1" size="38" />
+	<house name="Rotworm Ville #133" houseid="133" entryx="116" entryy="27" entryz="9" rent="0" townid="1" size="48" />
+	<house name="Rotworm Ville #134" houseid="134" entryx="109" entryy="20" entryz="9" rent="0" townid="1" size="22" />
+	<house name="Rotworm Ville #135" houseid="135" entryx="109" entryy="26" entryz="9" rent="0" townid="1" size="40" />
+	<house name="Rotworm Ville #136" houseid="136" entryx="94" entryy="23" entryz="9" rent="0" townid="1" size="32" />
+	<house name="Rotworm Ville #137" houseid="137" entryx="85" entryy="23" entryz="9" rent="0" townid="1" size="32" />
+	<house name="Rotworm Ville #138" houseid="138" entryx="85" entryy="21" entryz="9" rent="0" townid="1" size="22" />
+	<house name="Rotworm Ville #139" houseid="139" entryx="89" entryy="13" entryz="9" rent="0" townid="1" size="49" />
+	<house name="Rotworm Ville #140" houseid="140" entryx="75" entryy="13" entryz="9" rent="0" townid="1" size="26" />
+	<house name="Rotworm Ville #141" houseid="141" entryx="70" entryy="19" entryz="9" rent="0" townid="1" size="52" />
+	<house name="Rotworm Ville #142" houseid="142" entryx="78" entryy="23" entryz="9" rent="0" townid="1" size="28" />
+	<house name="Rotworm Ville #143" houseid="143" entryx="72" entryy="23" entryz="9" rent="0" townid="1" size="28" />
+	<house name="Rotworm Ville #144" houseid="144" entryx="64" entryy="22" entryz="9" rent="0" townid="1" size="40" />
+	<house name="Rotworm Ville #145" houseid="145" entryx="59" entryy="17" entryz="9" rent="0" townid="1" size="42" />
+	<house name="Rotworm Ville #146" houseid="146" entryx="48" entryy="17" entryz="9" rent="0" townid="1" size="54" />
+	<house name="Rotworm Ville #147" houseid="147" entryx="57" entryy="22" entryz="9" rent="0" townid="1" size="31" />
+	<house name="Rotworm Ville #148" houseid="148" entryx="49" entryy="23" entryz="9" rent="0" townid="1" size="28" />
+	<house name="Rotworm Ville #149" houseid="149" entryx="42" entryy="23" entryz="9" rent="0" townid="1" size="48" />
+	<house name="Rotworm Ville #150" houseid="150" entryx="40" entryy="17" entryz="9" rent="0" townid="1" size="58" />
+	<house name="Rotworm Ville #151" houseid="151" entryx="27" entryy="18" entryz="9" rent="0" townid="1" size="64" />
+	<house name="Rotworm Ville #152" houseid="152" entryx="24" entryy="20" entryz="9" rent="0" townid="1" size="27" />
+	<house name="Rotworm Ville #153" houseid="153" entryx="23" entryy="25" entryz="9" rent="0" townid="1" size="28" />
+	<house name="Rotworm Ville #154" houseid="154" entryx="30" entryy="25" entryz="9" rent="0" townid="1" size="28" />
+	<house name="Ville Depot 1" houseid="155" entryx="86" entryy="18" entryz="10" rent="0" townid="1" size="23" />
+	<house name="Ville Depot 2" houseid="156" entryx="95" entryy="18" entryz="10" rent="0" townid="1" size="19" />
+	<house name="Wood House #173" houseid="173" entryx="183" entryy="105" entryz="7" rent="0" townid="1" size="12" />
+	<house name="Wood House #174" houseid="174" entryx="189" entryy="107" entryz="7" rent="0" townid="1" size="12" />
+	<house name="Wood House #175" houseid="175" entryx="193" entryy="108" entryz="7" rent="0" townid="1" size="12" />
+	<house name="Wood House #176" houseid="176" entryx="198" entryy="108" entryz="7" rent="0" townid="1" size="12" />
+	<house name="Wood House #177" houseid="177" entryx="203" entryy="108" entryz="7" rent="0" townid="1" size="12" />
+	<house name="Wood House #178" houseid="178" entryx="203" entryy="106" entryz="7" rent="0" townid="1" size="31" />
+	<house name="Wood House #179" houseid="179" entryx="203" entryy="100" entryz="7" rent="0" townid="1" size="21" />
+	<house name="Wood House #180" houseid="180" entryx="186" entryy="102" entryz="7" rent="0" townid="1" size="12" />
+	<house name="GM House #181" houseid="181" entryx="410" entryy="260" entryz="7" rent="0" townid="1" size="108" />
+</houses>
